@@ -36,3 +36,19 @@ Follow me for the next one. No invite needed.
 POV: the meeting is about the next meeting. Heidi's Chronicles #1. Slide 6 is how I feel inside.
 
 #corporatehumor #meetingssuck #officelife #worktok #corporatetiktok #9to5 #workmemes #fyp
+
+## x
+"Let's align on the alignment meeting."
+I proposed skipping both. The recap was already in everyone's inbox.
+They loved my energy. Then they sent the invite.
+
+Heidi's Chronicles #1 · A new one every week. No invite needed.
+
+## threads
+A meeting to align on the alignment meeting. I proposed skipping both, the recap was already in everyone's inbox. They loved my energy. Then they sent the invite.
+
+Heidi's Chronicles #1. New one every week, no invite needed.
+
+## pinned
+Not aligned. Unwell. The recap went out before the meeting was booked: that is the part I do for you, before, during and after.
+Try me free for 14 days → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=chronicles&utm_content=ch01
