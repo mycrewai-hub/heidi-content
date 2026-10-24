@@ -1,0 +1,98 @@
+{
+ "site": {
+  "title": "Heidi Content Hub",
+  "base_url": "https://mycrewai-hub.github.io/heidi-content"
+ },
+ "pieces": [
+  {
+   "id": "ch01-alignment-meeting",
+   "type": "Heidi's Chronicles · carrousel BD",
+   "title": "Heidi's Chronicles #1 · The Alignment Meeting",
+   "date": "2026-10-24",
+   "status": "hd-pending",
+   "note": "7 slides 1080×1350",
+   "dir": "library/chronicles/ch01-alignment-meeting",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "Carrousel PDF, 7 pages 1080×1350 (document post)",
+     "files": [
+      "linkedin/carousel.pdf"
+     ]
+    },
+    "instagram": {
+     "format": "Carrousel 7 images 1080×1350 (4:5)",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png",
+      "instagram/slide_6.png",
+      "instagram/slide_7.png"
+     ]
+    },
+    "facebook": {
+     "format": "Album 7 images 1080×1350",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png",
+      "instagram/slide_6.png",
+      "instagram/slide_7.png"
+     ]
+    },
+    "tiktok": {
+     "format": "Photo carousel 7 images 1080×1350 (mode photo)",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png",
+      "instagram/slide_6.png",
+      "instagram/slide_7.png"
+     ]
+    }
+   }
+  },
+  {
+   "id": "heidi-explainer-v4c",
+   "type": "Explainer motion · 56 s",
+   "title": "Meetings suck. I don't. · Explainer V4c",
+   "date": "2026-10-23",
+   "status": "ready",
+   "note": "hook, before/during/after, 40+ tools, 14 days free",
+   "dir": "library/video/heidi-explainer-v4c",
+   "cover": "poster.jpg",
+   "networks": {
+    "linkedin": {
+     "format": "Vidéo 4:5, 1080×1350, 56 s, son ON, −14 LUFS",
+     "files": [
+      "linkedin/Heidi_V4c_4x5_final.mp4"
+     ]
+    },
+    "instagram": {
+     "format": "Reel 9:16, 1080×1920, 56 s",
+     "files": [
+      "tiktok/Heidi_V4c_9x16_final.mp4"
+     ]
+    },
+    "facebook": {
+     "format": "Vidéo 4:5, 1080×1350, 56 s",
+     "files": [
+      "linkedin/Heidi_V4c_4x5_final.mp4"
+     ]
+    },
+    "tiktok": {
+     "format": "Vidéo 9:16, 1080×1920, 56 s",
+     "files": [
+      "tiktok/Heidi_V4c_9x16_final.mp4"
+     ]
+    }
+   }
+  }
+ ]
+}

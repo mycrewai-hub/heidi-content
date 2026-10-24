@@ -1,0 +1,308 @@
+{
+ "generated": "2026-10-24 12:28 UTC",
+ "base_url": "https://mycrewai-hub.github.io/heidi-content",
+ "pieces": [
+  {
+   "id": "ch01-alignment-meeting",
+   "type": "Heidi's Chronicles · carrousel BD",
+   "title": "Heidi's Chronicles #1 · The Alignment Meeting",
+   "date": "2026-10-24",
+   "status": "hd-pending",
+   "note": "7 slides 1080×1350",
+   "cover": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Carrousel PDF, 7 pages 1080×1350 (document post)",
+     "files": [
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/linkedin/carousel.pdf",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/linkedin/carousel.pdf",
+       "name": "carousel.pdf",
+       "bytes": 865329,
+       "size": "845.0 Ko",
+       "kind": "pdf"
+      }
+     ],
+     "caption": "A meeting. To align on the alignment meeting.\nBased on a true story. All of them.\n\nHeidi's Chronicles #1: I proposed skipping both meetings, since the recap was already in everyone's inbox. The team loved my energy. Then they sent the invite.\n\nSwipe to the end. Recognize someone. Don't tag them. (Tag them.)\n\nI'm Heidi, the meeting copilot who sits through this so you don't have to. Follow me: shortest meeting of your week.",
+     "hashtags": "#MeetingsSuck #CorporateLife #HeidisChronicles #WorkHumor #Leadership #Productivity",
+     "status": "hd-pending"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Carrousel 7 images 1080×1350 (4:5)",
+     "files": [
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 529365,
+       "size": "517.0 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 799879,
+       "size": "781.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 795814,
+       "size": "777.2 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 746609,
+       "size": "729.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 729485,
+       "size": "712.4 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
+       "name": "slide_6.png",
+       "bytes": 612892,
+       "size": "598.5 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
+       "name": "slide_7.png",
+       "bytes": 571212,
+       "size": "557.8 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "A meeting. To align on the alignment meeting. Based on a true story. All of them.\n\nSwipe to slide 6 for my inner monologue. Then follow me, it's the shortest meeting of your week.\n\nNew chronicle every week. No invite needed.",
+     "hashtags": "#heidischronicles #meetingssuck #corporatehumor #officelife #worklife #meetings #9to5 #corporatelife #workmemes #productivity",
+     "status": "hd-pending"
+    },
+    "facebook": {
+     "label": "Facebook",
+     "format": "Album 7 images 1080×1350",
+     "files": [
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 529365,
+       "size": "517.0 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 799879,
+       "size": "781.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 795814,
+       "size": "777.2 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 746609,
+       "size": "729.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 729485,
+       "size": "712.4 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
+       "name": "slide_6.png",
+       "bytes": 612892,
+       "size": "598.5 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
+       "name": "slide_7.png",
+       "bytes": 571212,
+       "size": "557.8 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "A meeting. To align on the alignment meeting. Based on a true story. All of them.\n\nHeidi's Chronicles #1. I proposed skipping both meetings. The team loved my energy. Then they sent the invite.\n\nFollow me for the next one. No invite needed.",
+     "hashtags": "#MeetingsSuck #CorporateLife #WorkHumor #HeidisChronicles",
+     "status": "hd-pending"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Photo carousel 7 images 1080×1350 (mode photo)",
+     "files": [
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 529365,
+       "size": "517.0 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 799879,
+       "size": "781.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 795814,
+       "size": "777.2 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 746609,
+       "size": "729.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 729485,
+       "size": "712.4 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
+       "name": "slide_6.png",
+       "bytes": 612892,
+       "size": "598.5 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
+       "name": "slide_7.png",
+       "bytes": 571212,
+       "size": "557.8 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: the meeting is about the next meeting. Heidi's Chronicles #1. Slide 6 is how I feel inside.",
+     "hashtags": "#corporatehumor #meetingssuck #officelife #worktok #corporatetiktok #9to5 #workmemes #fyp",
+     "status": "hd-pending"
+    }
+   }
+  },
+  {
+   "id": "heidi-explainer-v4c",
+   "type": "Explainer motion · 56 s",
+   "title": "Meetings suck. I don't. · Explainer V4c",
+   "date": "2026-10-23",
+   "status": "ready",
+   "note": "hook, before/during/after, 40+ tools, 14 days free",
+   "cover": "library/video/heidi-explainer-v4c/poster.jpg",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Vidéo 4:5, 1080×1350, 56 s, son ON, −14 LUFS",
+     "files": [
+      {
+       "path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "name": "Heidi_V4c_4x5_final.mp4",
+       "bytes": 14652761,
+       "size": "14.0 Mo",
+       "kind": "video"
+      }
+     ],
+     "caption": "Meetings suck. I don't.\n\nBefore: I prep you. During: I whisper live suggestions and keep score of what actually matters. After: recap, next steps and CRM notes land before you've found your mug.\n\nI plug into 40+ tools you already use. Sales, managers, consultants, customer success, coaches: same me, your workflow.\n\n14 days free. The full me. $0 today.\nhi-heidi.ai",
+     "hashtags": "#MeetingCopilot #AI #Sales #CustomerSuccess #Productivity #MeetingsSuck",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Reel 9:16, 1080×1920, 56 s",
+     "files": [
+      {
+       "path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "name": "Heidi_V4c_9x16_final.mp4",
+       "bytes": 18351658,
+       "size": "17.5 Mo",
+       "kind": "video"
+      }
+     ],
+     "caption": "Meetings suck. I don't.\nBefore, during, after: I handle the meeting so you can handle the people.\n14 days free, link in bio.",
+     "hashtags": "#meetingssuck #aicopilot #productivity #salestips #worklife #ai #meetings #founders",
+     "status": "ready"
+    },
+    "facebook": {
+     "label": "Facebook",
+     "format": "Vidéo 4:5, 1080×1350, 56 s",
+     "files": [
+      {
+       "path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "name": "Heidi_V4c_4x5_final.mp4",
+       "bytes": 14652761,
+       "size": "14.0 Mo",
+       "kind": "video"
+      }
+     ],
+     "caption": "Meetings suck. I don't.\n\nBefore: I prep you. During: live suggestions. After: recap and next steps in your inbox before the coffee's cold. 40+ integrations.\n\n14 days free. The full me. $0 today.\nhi-heidi.ai",
+     "hashtags": "#MeetingsSuck #AI #Productivity",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Vidéo 9:16, 1080×1920, 56 s",
+     "files": [
+      {
+       "path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "name": "Heidi_V4c_9x16_final.mp4",
+       "bytes": 18351658,
+       "size": "17.5 Mo",
+       "kind": "video"
+      }
+     ],
+     "caption": "Meetings suck. I don't. Before, during, after. 14 days free.",
+     "hashtags": "#meetingssuck #aicopilot #worktok #productivity #corporatetiktok #ai #9to5",
+     "status": "ready"
+    }
+   }
+  }
+ ]
+}

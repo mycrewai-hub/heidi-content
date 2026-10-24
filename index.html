@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Heidi Content Hub</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@500;600;700;800&family=Geist+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#ffffff;--ink:#0c0f14;--ink2:#171b26;--gray:#3a424d;--gray2:#6c7682;--blue:#008dff;--blue-d:#0070d6;--light:#b3f0ff;--ice:#edf9ff;--ice-line:#cfe9ff;--yellow:#ffe310;--r:18px;
+--font:"Onest",system-ui,-apple-system,"Segoe UI",sans-serif;--mono:"Geist Mono",ui-monospace,SFMono-Regular,Menlo,monospace}
+*{box-sizing:border-box}
+html{color-scheme:light}
+body{margin:0;font:16px/1.45 var(--font);color:var(--ink);background:var(--bg) radial-gradient(900px 520px at 100% -10%,rgba(179,240,255,.75),transparent 60%),radial-gradient(700px 480px at -10% 110%,rgba(0,141,255,.14),transparent 60%);background-attachment:fixed;min-height:100%}
+.wrap{max-width:980px;margin:0 auto;padding-block:20px 60px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px;margin-bottom:18px}
+h1{font-weight:800;font-size:clamp(28px,6vw,40px);letter-spacing:-.03em;margin:0;line-height:1}
+h1 span{color:var(--blue)}
+.meta{font:500 12px/1.2 var(--mono);color:var(--blue-d);background:var(--ice);border:1px solid var(--ice-line);border-radius:999px;padding:8px 12px;letter-spacing:.02em}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 22px}
+.chip{font:600 14px/1 var(--font);padding:10px 14px;border-radius:999px;border:1.5px solid var(--ice-line);background:#fff;color:var(--ink2);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--blue);border-color:var(--blue);color:#fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+.card{background:#fff;border:1px solid var(--ice-line);border-radius:var(--r);overflow:hidden;box-shadow:0 14px 40px -24px rgba(0,112,214,.35);display:flex;flex-direction:column;min-width:0}
+.cover{position:relative;aspect-ratio:4/5;background:var(--ice);overflow:hidden}
+.cover img,.cover video{width:100%;height:100%;object-fit:cover;display:block}
+.badge{position:absolute;right:12px;bottom:12px;font:500 11px/1 var(--mono);background:rgba(255,255,255,.92);color:var(--blue-d);border-radius:999px;padding:7px 10px;letter-spacing:.03em}
+.badge.s-ready,.badge.s-published{color:#0a7a3b}
+.badge.s-hd-pending,.badge.s-draft{color:#8a6d00}
+.body{padding:14px 14px 16px;display:flex;flex-direction:column;gap:12px}
+.title{font-weight:800;font-size:18px;letter-spacing:-.02em;line-height:1.15;text-wrap:balance;margin:0}
+.sub{color:var(--gray2);font-size:13px;margin:0}
+.tabs{display:flex;gap:6px;flex-wrap:wrap}
+.tab{font:600 13px/1 var(--font);padding:8px 11px;border-radius:999px;border:1.5px solid var(--ice-line);background:#fff;color:var(--ink2);cursor:pointer}
+.tab[aria-selected="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.panel{display:flex;flex-direction:column;gap:10px}
+.fmt{font:500 12px/1.3 var(--mono);color:var(--gray2)}
+.files{display:flex;flex-direction:column;gap:6px}
+.file{display:flex;align-items:center;justify-content:space-between;gap:8px;border:1px solid var(--ice-line);border-radius:12px;padding:8px 10px;background:var(--ice)}
+.file .n{font-size:13px;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.file .n small{color:var(--gray2);font-family:var(--mono);font-size:11px;margin-left:6px}
+.btns{display:flex;gap:6px;flex-shrink:0}
+.btn{font:700 13px/1 var(--font);padding:9px 12px;border-radius:999px;border:0;cursor:pointer;background:var(--blue);color:#fff;text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+.btn.ghost{background:#fff;color:var(--blue-d);border:1.5px solid var(--ice-line)}
+.btn:focus-visible,.chip:focus-visible,.tab:focus-visible{outline:3px solid var(--light);outline-offset:2px}
+.cap{position:relative}
+.cap textarea{width:100%;min-height:140px;resize:vertical;font:500 14px/1.45 var(--font);color:var(--ink);border:1.5px solid var(--ice-line);border-radius:12px;padding:10px 12px;background:#fff;display:block}
+.cap .row{display:flex;justify-content:flex-end;margin-top:8px}
+.vid{width:100%;border-radius:12px;background:#000;max-height:420px}
+.cap .tags{font:500 13px/1.4 var(--mono);color:var(--blue-d);margin:6px 0 0;word-break:break-word}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%) translateY(20px);background:var(--ink);color:#fff;font:600 14px/1 var(--font);padding:12px 16px;border-radius:999px;opacity:0;transition:.2s;pointer-events:none}
+.toast.on{opacity:1;transform:translateX(-50%)}
+.empty{color:var(--gray2);padding:40px 0;text-align:center}
+.yellow{background:linear-gradient(transparent 62%,var(--yellow) 62%,var(--yellow) 88%,transparent 88%)}
+footer{margin-top:36px;color:var(--gray2);font:500 12px/1.5 var(--mono)}
+@media (prefers-reduced-motion:reduce){.toast{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div><h1>Heidi <span>Content Hub</span></h1><p class="sub" style="margin-top:8px">Chaque pièce, par réseau, au bon format. Copie la caption, télécharge, publie.</p></div>
+  <div class="meta" id="meta"></div>
+</header>
+<div class="filters" id="filters" role="group" aria-label="Filtrer par réseau"></div>
+<div class="grid" id="grid"></div>
+<div class="empty" id="empty" hidden>Rien pour ce filtre.</div>
+<footer>Fichiers servis depuis ce dépôt. URL publique de chaque fichier = bouton "URL" (à coller dans l'outil de publication).</footer>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script>
+const DATA = {"generated": "2026-10-24 12:28 UTC", "base_url": "https://mycrewai-hub.github.io/heidi-content", "pieces": [{"id": "ch01-alignment-meeting", "type": "Heidi's Chronicles · carrousel BD", "title": "Heidi's Chronicles #1 · The Alignment Meeting", "date": "2026-10-24", "status": "hd-pending", "note": "7 slides 1080×1350", "cover": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png", "networks": {"linkedin": {"label": "LinkedIn", "format": "Carrousel PDF, 7 pages 1080×1350 (document post)", "files": [{"path": "library/chronicles/ch01-alignment-meeting/linkedin/carousel.pdf", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/linkedin/carousel.pdf", "name": "carousel.pdf", "bytes": 865329, "size": "845.0 Ko", "kind": "pdf"}], "caption": "A meeting. To align on the alignment meeting.\nBased on a true story. All of them.\n\nHeidi's Chronicles #1: I proposed skipping both meetings, since the recap was already in everyone's inbox. The team loved my energy. Then they sent the invite.\n\nSwipe to the end. Recognize someone. Don't tag them. (Tag them.)\n\nI'm Heidi, the meeting copilot who sits through this so you don't have to. Follow me: shortest meeting of your week.", "hashtags": "#MeetingsSuck #CorporateLife #HeidisChronicles #WorkHumor #Leadership #Productivity", "status": "hd-pending"}, "instagram": {"label": "Instagram", "format": "Carrousel 7 images 1080×1350 (4:5)", "files": [{"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png", "name": "slide_1.png", "bytes": 529365, "size": "517.0 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_2.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png", "name": "slide_2.png", "bytes": 799879, "size": "781.1 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_3.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png", "name": "slide_3.png", "bytes": 795814, "size": "777.2 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_4.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png", "name": "slide_4.png", "bytes": 746609, "size": "729.1 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_5.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png", "name": "slide_5.png", "bytes": 729485, "size": "712.4 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_6.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png", "name": "slide_6.png", "bytes": 612892, "size": "598.5 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_7.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png", "name": "slide_7.png", "bytes": 571212, "size": "557.8 Ko", "kind": "image"}], "caption": "A meeting. To align on the alignment meeting. Based on a true story. All of them.\n\nSwipe to slide 6 for my inner monologue. Then follow me, it's the shortest meeting of your week.\n\nNew chronicle every week. No invite needed.", "hashtags": "#heidischronicles #meetingssuck #corporatehumor #officelife #worklife #meetings #9to5 #corporatelife #workmemes #productivity", "status": "hd-pending"}, "facebook": {"label": "Facebook", "format": "Album 7 images 1080×1350", "files": [{"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png", "name": "slide_1.png", "bytes": 529365, "size": "517.0 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_2.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png", "name": "slide_2.png", "bytes": 799879, "size": "781.1 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_3.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png", "name": "slide_3.png", "bytes": 795814, "size": "777.2 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_4.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png", "name": "slide_4.png", "bytes": 746609, "size": "729.1 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_5.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png", "name": "slide_5.png", "bytes": 729485, "size": "712.4 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_6.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png", "name": "slide_6.png", "bytes": 612892, "size": "598.5 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_7.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png", "name": "slide_7.png", "bytes": 571212, "size": "557.8 Ko", "kind": "image"}], "caption": "A meeting. To align on the alignment meeting. Based on a true story. All of them.\n\nHeidi's Chronicles #1. I proposed skipping both meetings. The team loved my energy. Then they sent the invite.\n\nFollow me for the next one. No invite needed.", "hashtags": "#MeetingsSuck #CorporateLife #WorkHumor #HeidisChronicles", "status": "hd-pending"}, "tiktok": {"label": "TikTok", "format": "Photo carousel 7 images 1080×1350 (mode photo)", "files": [{"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png", "name": "slide_1.png", "bytes": 529365, "size": "517.0 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_2.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png", "name": "slide_2.png", "bytes": 799879, "size": "781.1 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_3.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png", "name": "slide_3.png", "bytes": 795814, "size": "777.2 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_4.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png", "name": "slide_4.png", "bytes": 746609, "size": "729.1 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_5.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png", "name": "slide_5.png", "bytes": 729485, "size": "712.4 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_6.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png", "name": "slide_6.png", "bytes": 612892, "size": "598.5 Ko", "kind": "image"}, {"path": "library/chronicles/ch01-alignment-meeting/instagram/slide_7.png", "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png", "name": "slide_7.png", "bytes": 571212, "size": "557.8 Ko", "kind": "image"}], "caption": "POV: the meeting is about the next meeting. Heidi's Chronicles #1. Slide 6 is how I feel inside.", "hashtags": "#corporatehumor #meetingssuck #officelife #worktok #corporatetiktok #9to5 #workmemes #fyp", "status": "hd-pending"}}}, {"id": "heidi-explainer-v4c", "type": "Explainer motion · 56 s", "title": "Meetings suck. I don't. · Explainer V4c", "date": "2026-10-23", "status": "ready", "note": "hook, before/during/after, 40+ tools, 14 days free", "cover": "library/video/heidi-explainer-v4c/poster.jpg", "networks": {"linkedin": {"label": "LinkedIn", "format": "Vidéo 4:5, 1080×1350, 56 s, son ON, −14 LUFS", "files": [{"path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4", "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4", "name": "Heidi_V4c_4x5_final.mp4", "bytes": 14652761, "size": "14.0 Mo", "kind": "video"}], "caption": "Meetings suck. I don't.\n\nBefore: I prep you. During: I whisper live suggestions and keep score of what actually matters. After: recap, next steps and CRM notes land before you've found your mug.\n\nI plug into 40+ tools you already use. Sales, managers, consultants, customer success, coaches: same me, your workflow.\n\n14 days free. The full me. $0 today.\nhi-heidi.ai", "hashtags": "#MeetingCopilot #AI #Sales #CustomerSuccess #Productivity #MeetingsSuck", "status": "ready"}, "instagram": {"label": "Instagram", "format": "Reel 9:16, 1080×1920, 56 s", "files": [{"path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4", "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4", "name": "Heidi_V4c_9x16_final.mp4", "bytes": 18351658, "size": "17.5 Mo", "kind": "video"}], "caption": "Meetings suck. I don't.\nBefore, during, after: I handle the meeting so you can handle the people.\n14 days free, link in bio.", "hashtags": "#meetingssuck #aicopilot #productivity #salestips #worklife #ai #meetings #founders", "status": "ready"}, "facebook": {"label": "Facebook", "format": "Vidéo 4:5, 1080×1350, 56 s", "files": [{"path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4", "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4", "name": "Heidi_V4c_4x5_final.mp4", "bytes": 14652761, "size": "14.0 Mo", "kind": "video"}], "caption": "Meetings suck. I don't.\n\nBefore: I prep you. During: live suggestions. After: recap and next steps in your inbox before the coffee's cold. 40+ integrations.\n\n14 days free. The full me. $0 today.\nhi-heidi.ai", "hashtags": "#MeetingsSuck #AI #Productivity", "status": "ready"}, "tiktok": {"label": "TikTok", "format": "Vidéo 9:16, 1080×1920, 56 s", "files": [{"path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4", "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4", "name": "Heidi_V4c_9x16_final.mp4", "bytes": 18351658, "size": "17.5 Mo", "kind": "video"}], "caption": "Meetings suck. I don't. Before, during, after. 14 days free.", "hashtags": "#meetingssuck #aicopilot #worktok #productivity #corporatetiktok #ai #9to5", "status": "ready"}}}]};
+const NET = {linkedin:"LinkedIn",instagram:"Instagram",facebook:"Facebook",tiktok:"TikTok"};
+const STATUS = {"draft": "Brouillon", "ready": "Prêt", "scheduled": "Programmé", "published": "Publié", "hd-pending": "HD en attente"};
+let filter = "all";
+try { filter = localStorage.getItem("hub.filter") || "all"; } catch (e) {}
+const $ = (s, r=document) => r.querySelector(s);
+function toast(msg) { const t = $("#toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove("on"), 1600); }
+async function copy(text, label) {
+  try { await navigator.clipboard.writeText(text); toast(label + " copié"); }
+  catch (e) { const ta = document.createElement("textarea"); ta.value = text; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); toast(label + " copié"); } catch (e2) { toast("Copie impossible, sélectionne le texte"); } ta.remove(); }
+}
+function esc(s) { return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function renderFilters() {
+  const f = $("#filters"); f.innerHTML = "";
+  [["all","Tous"],...Object.entries(NET)].forEach(([k,l]) => {
+    const b = document.createElement("button"); b.className = "chip"; b.textContent = l; b.setAttribute("aria-pressed", String(filter===k));
+    b.onclick = () => { filter = k; try { localStorage.setItem("hub.filter", k); } catch(e) {} renderFilters(); renderGrid(); }; f.appendChild(b);
+  });
+}
+function panel(p, key) {
+  const n = p.networks[key]; if (!n) return "";
+  const vids = n.files.filter(f => f.kind === "video").map(f => `<video class="vid" controls preload="metadata" playsinline src="${esc(f.path)}"></video>`).join("");
+  const files = vids + n.files.map(f => `<div class="file"><div class="n">${esc(f.name)}<small>${esc(f.size)}</small></div><div class="btns"><a class="btn" href="${esc(f.path)}" download>Télécharger</a><button class="btn ghost" data-copy="${esc(f.url)}" data-label="URL">URL</button></div></div>`).join("");
+  const full = n.caption + (n.hashtags ? "\n\n" + n.hashtags : "");
+  return `<div class="panel" data-net="${key}">
+    <div class="fmt">${esc(n.format || "")}</div>
+    <div class="files">${files || '<div class="fmt">Aucun fichier encore.</div>'}</div>
+    ${n.caption ? `<div class="cap"><textarea readonly aria-label="Caption ${esc(n.label)}">${esc(n.caption)}</textarea>${n.hashtags ? `<p class="tags">${esc(n.hashtags)}</p>` : ""}<div class="row"><button class="btn" data-copy="${esc(full)}" data-label="Caption + hashtags">Copier caption + hashtags</button></div></div>` : ""}
+  </div>`;
+}
+function card(p) {
+  const keys = Object.keys(p.networks).filter(k => filter === "all" || k === filter);
+  const first = keys.includes(filter) ? filter : keys[0];
+  const cover = p.cover ? (p.cover.match(/\.(mp4|webm|mov)$/i) ? `<video src="${esc(p.cover)}" muted playsinline preload="metadata"></video>` : `<img src="${esc(p.cover)}" alt="" loading="lazy">`) : "";
+  const el = document.createElement("article"); el.className = "card";
+  el.innerHTML = `<div class="cover">${cover}<span class="badge s-${esc(p.status)}">${esc(STATUS[p.status] || p.status)}</span></div>
+  <div class="body"><h2 class="title">${esc(p.title)}</h2><p class="sub">${esc(p.type)}${p.date ? " · " + esc(p.date) : ""}${p.note ? " · " + esc(p.note) : ""}</p>
+  <div class="tabs" role="tablist">${keys.map(k => `<button class="tab" role="tab" data-k="${k}" aria-selected="${k===first}">${NET[k]}</button>`).join("")}</div>
+  <div class="panels">${first ? panel(p, first) : ""}</div></div>`;
+  el.querySelectorAll(".tab").forEach(t => t.onclick = () => { el.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-selected", String(x===t))); $(".panels", el).innerHTML = panel(p, t.dataset.k); });
+  return el;
+}
+function renderGrid() {
+  const g = $("#grid"); g.innerHTML = "";
+  const list = DATA.pieces.filter(p => filter === "all" || p.networks[filter]);
+  list.forEach(p => g.appendChild(card(p)));
+  $("#empty").hidden = list.length > 0;
+}
+document.addEventListener("click", e => { const b = e.target.closest("[data-copy]"); if (b) copy(b.dataset.copy, b.dataset.label || "Texte"); });
+$("#meta").textContent = DATA.pieces.length + " pièce" + (DATA.pieces.length > 1 ? "s" : "") + " · mis à jour " + DATA.generated;
+renderFilters(); renderGrid();
+</script>
+</body>
+</html>
