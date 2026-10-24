@@ -9,7 +9,7 @@ No dependencies. Brand-locked: white luminous background, blue #008DFF, ink, yel
 import json, os, re, html, datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-NETWORKS = [("linkedin", "LinkedIn"), ("instagram", "Instagram"), ("facebook", "Facebook"), ("tiktok", "TikTok")]
+NETWORKS = [("linkedin", "LinkedIn"), ("instagram", "Instagram"), ("facebook", "Facebook"), ("tiktok", "TikTok"), ("x", "X"), ("threads", "Threads"), ("youtube", "YouTube")]
 STATUS_LABEL = {"draft": "Brouillon", "ready": "Prêt", "scheduled": "Programmé", "published": "Publié", "hd-pending": "HD en attente"}
 
 def read(p):
@@ -148,7 +148,7 @@ footer{{margin-top:36px;color:var(--gray2);font:500 12px/1.5 var(--mono)}}
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script>
 const DATA = {j};
-const NET = {{linkedin:"LinkedIn",instagram:"Instagram",facebook:"Facebook",tiktok:"TikTok"}};
+const NET = {{linkedin:"LinkedIn",instagram:"Instagram",facebook:"Facebook",tiktok:"TikTok",x:"X",threads:"Threads",youtube:"YouTube"}};
 const STATUS = {json.dumps(STATUS_LABEL, ensure_ascii=False)};
 let filter = "all";
 try {{ filter = localStorage.getItem("hub.filter") || "all"; }} catch (e) {{}}
@@ -173,7 +173,7 @@ function panel(p, key) {{
   const full = n.caption + (n.hashtags ? "\\n\\n" + n.hashtags : "");
   return `<div class="panel" data-net="${{key}}">
     <div class="fmt">${{esc(n.format || "")}}</div>
-    <div class="files">${{files || '<div class="fmt">Aucun fichier encore.</div>'}}</div>
+    <div class="files">${{files || '<div class="fmt">Texte seul, aucun fichier.</div>'}}</div>
     ${{n.caption ? `<div class="cap"><textarea readonly aria-label="Caption ${{esc(n.label)}}">${{esc(n.caption)}}</textarea>${{n.hashtags ? `<p class="tags">${{esc(n.hashtags)}}</p>` : ""}}<div class="row"><button class="btn" data-copy="${{esc(full)}}" data-label="Caption + hashtags">Copier caption + hashtags</button></div></div>` : ""}}
   </div>`;
 }}
