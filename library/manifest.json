@@ -1,7 +1,7 @@
 {
  "site": {
   "title": "Heidi Content Hub",
-  "base_url": "https://mycrewai-hub.github.io/heidi-content"
+  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main"
  },
  "pieces": [
   {

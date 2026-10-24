@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-24 14:27 UTC",
- "base_url": "https://mycrewai-hub.github.io/heidi-content",
+ "generated": "2026-10-24 15:24 UTC",
+ "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
    "id": "ch01-alignment-meeting",
@@ -17,7 +17,7 @@
      "files": [
       {
        "path": "library/chronicles/ch01-alignment-meeting/linkedin/carousel.pdf",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/linkedin/carousel.pdf",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/linkedin/carousel.pdf",
        "name": "carousel.pdf",
        "bytes": 850502,
        "size": "830.6 Ko",
@@ -34,7 +34,7 @@
      "files": [
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
        "name": "slide_1.png",
        "bytes": 680249,
        "size": "664.3 Ko",
@@ -42,7 +42,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
        "name": "slide_2.png",
        "bytes": 1364356,
        "size": "1.3 Mo",
@@ -50,7 +50,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
        "name": "slide_3.png",
        "bytes": 1376998,
        "size": "1.3 Mo",
@@ -58,7 +58,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
        "name": "slide_4.png",
        "bytes": 1357738,
        "size": "1.3 Mo",
@@ -66,7 +66,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
        "name": "slide_5.png",
        "bytes": 1300388,
        "size": "1.2 Mo",
@@ -74,7 +74,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
        "name": "slide_6.png",
        "bytes": 1310515,
        "size": "1.2 Mo",
@@ -82,7 +82,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
        "name": "slide_7.png",
        "bytes": 571212,
        "size": "557.8 Ko",
@@ -99,7 +99,7 @@
      "files": [
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
        "name": "slide_1.png",
        "bytes": 680249,
        "size": "664.3 Ko",
@@ -107,7 +107,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
        "name": "slide_2.png",
        "bytes": 1364356,
        "size": "1.3 Mo",
@@ -115,7 +115,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
        "name": "slide_3.png",
        "bytes": 1376998,
        "size": "1.3 Mo",
@@ -123,7 +123,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
        "name": "slide_4.png",
        "bytes": 1357738,
        "size": "1.3 Mo",
@@ -131,7 +131,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
        "name": "slide_5.png",
        "bytes": 1300388,
        "size": "1.2 Mo",
@@ -139,7 +139,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
        "name": "slide_6.png",
        "bytes": 1310515,
        "size": "1.2 Mo",
@@ -147,7 +147,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
        "name": "slide_7.png",
        "bytes": 571212,
        "size": "557.8 Ko",
@@ -164,7 +164,7 @@
      "files": [
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_1.png",
        "name": "slide_1.png",
        "bytes": 680249,
        "size": "664.3 Ko",
@@ -172,7 +172,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_2.png",
        "name": "slide_2.png",
        "bytes": 1364356,
        "size": "1.3 Mo",
@@ -180,7 +180,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_3.png",
        "name": "slide_3.png",
        "bytes": 1376998,
        "size": "1.3 Mo",
@@ -188,7 +188,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_4.png",
        "name": "slide_4.png",
        "bytes": 1357738,
        "size": "1.3 Mo",
@@ -196,7 +196,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_5.png",
        "name": "slide_5.png",
        "bytes": 1300388,
        "size": "1.2 Mo",
@@ -204,7 +204,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_6.png",
        "name": "slide_6.png",
        "bytes": 1310515,
        "size": "1.2 Mo",
@@ -212,7 +212,7 @@
       },
       {
        "path": "library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch01-alignment-meeting/instagram/slide_7.png",
        "name": "slide_7.png",
        "bytes": 571212,
        "size": "557.8 Ko",
@@ -240,7 +240,7 @@
      "files": [
       {
        "path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
        "name": "Heidi_V4c_4x5_final.mp4",
        "bytes": 14652761,
        "size": "14.0 Mo",
@@ -257,7 +257,7 @@
      "files": [
       {
        "path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
        "name": "Heidi_V4c_9x16_final.mp4",
        "bytes": 18351658,
        "size": "17.5 Mo",
@@ -274,7 +274,7 @@
      "files": [
       {
        "path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
        "name": "Heidi_V4c_4x5_final.mp4",
        "bytes": 14652761,
        "size": "14.0 Mo",
@@ -291,7 +291,7 @@
      "files": [
       {
        "path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
-       "url": "https://mycrewai-hub.github.io/heidi-content/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
        "name": "Heidi_V4c_9x16_final.mp4",
        "bytes": 18351658,
        "size": "17.5 Mo",
