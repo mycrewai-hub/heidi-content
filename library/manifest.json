@@ -15,9 +15,16 @@
    "cover": "instagram/slide_1.png",
    "networks": {
     "linkedin": {
-     "format": "Carrousel PDF, 7 pages 1080×1350 (document post)",
+     "format": "Carrousel : PDF 7 pages (document post) ou 7 images 1080×1350",
      "files": [
-      "linkedin/carousel.pdf"
+      "linkedin/carousel.pdf",
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png",
+      "instagram/slide_6.png",
+      "instagram/slide_7.png"
      ]
     },
     "instagram": {
