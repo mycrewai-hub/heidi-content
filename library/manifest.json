@@ -102,6 +102,21 @@
    }
   },
   {
+   "id": "tw-2026-10-26-ch01-a",
+   "type": "Tweet",
+   "title": "Tweet 17:30 · micro-dialogue : I'll be brief",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-10-26-ch01-a",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
+  },
+  {
    "id": "tw-2026-10-26-ch01-b",
    "type": "Tweet",
    "title": "Tweet 13:00 · observation : the weekly meeting is back",

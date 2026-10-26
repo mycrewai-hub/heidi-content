@@ -361,6 +361,25 @@
    }
   },
   {
+   "id": "tw-2026-10-26-ch01-a",
+   "type": "Tweet",
+   "title": "Tweet 17:30 · micro-dialogue : I'll be brief",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "Them: \"I'll be brief.\" Me: \"Timer's running.\"\nThem: \"So, a bit of background first.\"\n\"I'll be brief\" is a warning, not a promise.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
+  },
+  {
    "id": "tw-2026-10-26-ch01-b",
    "type": "Tweet",
    "title": "Tweet 13:00 · observation : the weekly meeting is back",
