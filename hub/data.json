@@ -620,6 +620,25 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "tw-2026-10-28-fg08-a",
+   "type": "Tweet",
+   "title": "Tweet mer 13:00 · Let's align offline",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "\"Let's align offline.\"\nTranslation: this will be decided by whoever speaks first after the call ends.\nThe other six find out later. In a thread. As a fact.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
