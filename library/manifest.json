@@ -130,6 +130,21 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "tw-2026-10-26-ch01-c",
+   "type": "Tweet",
+   "title": "Tweet 22:00 · dictionnaire : we're aligned",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-10-26-ch01-c",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }

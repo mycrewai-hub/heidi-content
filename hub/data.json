@@ -397,6 +397,25 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "tw-2026-10-26-ch01-c",
+   "type": "Tweet",
+   "title": "Tweet 22:00 · dictionnaire : we're aligned",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "\"We're aligned\" means we agreed on the next meeting.\n\"We're almost there\" means we agreed on the one after.\nAlignment is a feeling. A decision has a name and a date.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
