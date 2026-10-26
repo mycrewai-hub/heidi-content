@@ -1,7 +1,86 @@
 {
- "generated": "2026-10-24 22:37 UTC",
+ "generated": "2026-10-26 00:43 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
+  {
+   "id": "heidi-explainer-v4c",
+   "type": "Explainer motion · 56 s",
+   "title": "Meetings suck. I don't. · Explainer V4c",
+   "date": "2026-10-23",
+   "status": "ready",
+   "note": "hook, before/during/after, 40+ tools, 14 days free",
+   "cover": "library/video/heidi-explainer-v4c/poster.jpg",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Vidéo 4:5, 1080×1350, 56 s, son ON, −14 LUFS",
+     "files": [
+      {
+       "path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "name": "Heidi_V4c_4x5_final.mp4",
+       "bytes": 14652761,
+       "size": "14.0 Mo",
+       "kind": "video"
+      }
+     ],
+     "caption": "Meetings suck. I don't.\n\nBefore: I prep you. During: I whisper live suggestions and keep score of what actually matters. After: recap, next steps and CRM notes land before you've found your mug.\n\nI plug into 40+ tools you already use. Sales, managers, consultants, customer success, coaches: same me, your workflow.\n\n14 days free. The full me. $0 today.\nhi-heidi.ai",
+     "hashtags": "#MeetingCopilot #AI #Sales #CustomerSuccess #Productivity #MeetingsSuck",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Reel 9:16, 1080×1920, 56 s",
+     "files": [
+      {
+       "path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "name": "Heidi_V4c_9x16_final.mp4",
+       "bytes": 18351658,
+       "size": "17.5 Mo",
+       "kind": "video"
+      }
+     ],
+     "caption": "Meetings suck. I don't.\nBefore, during, after: I handle the meeting so you can handle the people.\n14 days free, link in bio.",
+     "hashtags": "#meetingssuck #aicopilot #productivity #salestips #worklife #ai #meetings #founders",
+     "status": "ready"
+    },
+    "facebook": {
+     "label": "Facebook",
+     "format": "Vidéo 4:5, 1080×1350, 56 s",
+     "files": [
+      {
+       "path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
+       "name": "Heidi_V4c_4x5_final.mp4",
+       "bytes": 14652761,
+       "size": "14.0 Mo",
+       "kind": "video"
+      }
+     ],
+     "caption": "Meetings suck. I don't.\n\nBefore: I prep you. During: live suggestions. After: recap and next steps in your inbox before the coffee's cold. 40+ integrations.\n\n14 days free. The full me. $0 today.\nhi-heidi.ai",
+     "hashtags": "#MeetingsSuck #AI #Productivity",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Vidéo 9:16, 1080×1920, 56 s",
+     "files": [
+      {
+       "path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
+       "name": "Heidi_V4c_9x16_final.mp4",
+       "bytes": 18351658,
+       "size": "17.5 Mo",
+       "kind": "video"
+      }
+     ],
+     "caption": "Meetings suck. I don't. Before, during, after. 14 days free.",
+     "hashtags": "#meetingssuck #aicopilot #worktok #productivity #corporatetiktok #ai #9to5",
+     "status": "ready"
+    }
+   }
+  },
   {
    "id": "ch01-alignment-meeting",
    "type": "Heidi's Chronicles · carrousel BD",
@@ -282,80 +361,20 @@
    }
   },
   {
-   "id": "heidi-explainer-v4c",
-   "type": "Explainer motion · 56 s",
-   "title": "Meetings suck. I don't. · Explainer V4c",
-   "date": "2026-10-23",
+   "id": "tw-2026-10-26-ch01-b",
+   "type": "Tweet",
+   "title": "Tweet 13:00 · observation : the weekly meeting is back",
+   "date": "2026-10-26",
    "status": "ready",
-   "note": "hook, before/during/after, 40+ tools, 14 days free",
-   "cover": "library/video/heidi-explainer-v4c/poster.jpg",
+   "note": "",
+   "cover": "",
    "networks": {
-    "linkedin": {
-     "label": "LinkedIn",
-     "format": "Vidéo 4:5, 1080×1350, 56 s, son ON, −14 LUFS",
-     "files": [
-      {
-       "path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
-       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
-       "name": "Heidi_V4c_4x5_final.mp4",
-       "bytes": 14652761,
-       "size": "14.0 Mo",
-       "kind": "video"
-      }
-     ],
-     "caption": "Meetings suck. I don't.\n\nBefore: I prep you. During: I whisper live suggestions and keep score of what actually matters. After: recap, next steps and CRM notes land before you've found your mug.\n\nI plug into 40+ tools you already use. Sales, managers, consultants, customer success, coaches: same me, your workflow.\n\n14 days free. The full me. $0 today.\nhi-heidi.ai",
-     "hashtags": "#MeetingCopilot #AI #Sales #CustomerSuccess #Productivity #MeetingsSuck",
-     "status": "ready"
-    },
-    "instagram": {
-     "label": "Instagram",
-     "format": "Reel 9:16, 1080×1920, 56 s",
-     "files": [
-      {
-       "path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
-       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
-       "name": "Heidi_V4c_9x16_final.mp4",
-       "bytes": 18351658,
-       "size": "17.5 Mo",
-       "kind": "video"
-      }
-     ],
-     "caption": "Meetings suck. I don't.\nBefore, during, after: I handle the meeting so you can handle the people.\n14 days free, link in bio.",
-     "hashtags": "#meetingssuck #aicopilot #productivity #salestips #worklife #ai #meetings #founders",
-     "status": "ready"
-    },
-    "facebook": {
-     "label": "Facebook",
-     "format": "Vidéo 4:5, 1080×1350, 56 s",
-     "files": [
-      {
-       "path": "library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
-       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/linkedin/Heidi_V4c_4x5_final.mp4",
-       "name": "Heidi_V4c_4x5_final.mp4",
-       "bytes": 14652761,
-       "size": "14.0 Mo",
-       "kind": "video"
-      }
-     ],
-     "caption": "Meetings suck. I don't.\n\nBefore: I prep you. During: live suggestions. After: recap and next steps in your inbox before the coffee's cold. 40+ integrations.\n\n14 days free. The full me. $0 today.\nhi-heidi.ai",
-     "hashtags": "#MeetingsSuck #AI #Productivity",
-     "status": "ready"
-    },
-    "tiktok": {
-     "label": "TikTok",
-     "format": "Vidéo 9:16, 1080×1920, 56 s",
-     "files": [
-      {
-       "path": "library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
-       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/video/heidi-explainer-v4c/tiktok/Heidi_V4c_9x16_final.mp4",
-       "name": "Heidi_V4c_9x16_final.mp4",
-       "bytes": 18351658,
-       "size": "17.5 Mo",
-       "kind": "video"
-      }
-     ],
-     "caption": "Meetings suck. I don't. Before, during, after. 14 days free.",
-     "hashtags": "#meetingssuck #aicopilot #worktok #productivity #corporatetiktok #ai #9to5",
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "Monday. The weekly meeting is back.\nIt has outlived its creator, its purpose and the product it was built for.\nCancel it once. If the company survives the week, I was right.",
+     "hashtags": "",
      "status": "ready"
     }
    }

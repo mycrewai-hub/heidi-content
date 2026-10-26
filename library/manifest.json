@@ -5,6 +5,42 @@
  },
  "pieces": [
   {
+   "id": "heidi-explainer-v4c",
+   "type": "Explainer motion · 56 s",
+   "title": "Meetings suck. I don't. · Explainer V4c",
+   "date": "2026-10-23",
+   "status": "ready",
+   "note": "hook, before/during/after, 40+ tools, 14 days free",
+   "dir": "library/video/heidi-explainer-v4c",
+   "cover": "poster.jpg",
+   "networks": {
+    "linkedin": {
+     "format": "Vidéo 4:5, 1080×1350, 56 s, son ON, −14 LUFS",
+     "files": [
+      "linkedin/Heidi_V4c_4x5_final.mp4"
+     ]
+    },
+    "instagram": {
+     "format": "Reel 9:16, 1080×1920, 56 s",
+     "files": [
+      "tiktok/Heidi_V4c_9x16_final.mp4"
+     ]
+    },
+    "facebook": {
+     "format": "Vidéo 4:5, 1080×1350, 56 s",
+     "files": [
+      "linkedin/Heidi_V4c_4x5_final.mp4"
+     ]
+    },
+    "tiktok": {
+     "format": "Vidéo 9:16, 1080×1920, 56 s",
+     "files": [
+      "tiktok/Heidi_V4c_9x16_final.mp4"
+     ]
+    }
+   }
+  },
+  {
    "id": "ch01-alignment-meeting",
    "type": "Heidi's Chronicles · carrousel BD",
    "title": "Heidi's Chronicles #1 · The Alignment Meeting",
@@ -66,38 +102,17 @@
    }
   },
   {
-   "id": "heidi-explainer-v4c",
-   "type": "Explainer motion · 56 s",
-   "title": "Meetings suck. I don't. · Explainer V4c",
-   "date": "2026-10-23",
+   "id": "tw-2026-10-26-ch01-b",
+   "type": "Tweet",
+   "title": "Tweet 13:00 · observation : the weekly meeting is back",
+   "date": "2026-10-26",
    "status": "ready",
-   "note": "hook, before/during/after, 40+ tools, 14 days free",
-   "dir": "library/video/heidi-explainer-v4c",
-   "cover": "poster.jpg",
+   "note": "",
+   "dir": "library/text/tw-2026-10-26-ch01-b",
    "networks": {
-    "linkedin": {
-     "format": "Vidéo 4:5, 1080×1350, 56 s, son ON, −14 LUFS",
-     "files": [
-      "linkedin/Heidi_V4c_4x5_final.mp4"
-     ]
-    },
-    "instagram": {
-     "format": "Reel 9:16, 1080×1920, 56 s",
-     "files": [
-      "tiktok/Heidi_V4c_9x16_final.mp4"
-     ]
-    },
-    "facebook": {
-     "format": "Vidéo 4:5, 1080×1350, 56 s",
-     "files": [
-      "linkedin/Heidi_V4c_4x5_final.mp4"
-     ]
-    },
-    "tiktok": {
-     "format": "Vidéo 9:16, 1080×1920, 56 s",
-     "files": [
-      "tiktok/Heidi_V4c_9x16_final.mp4"
-     ]
+    "x": {
+     "format": "Texte seul",
+     "files": []
     }
    }
   }
