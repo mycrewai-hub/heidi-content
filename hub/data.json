@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26 00:43 UTC",
+ "generated": "2026-10-26 07:06 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -356,6 +356,172 @@
      ],
      "caption": "POV: the meeting is about the next meeting. Heidi's Chronicles #1. Slide 6 is how I feel inside.",
      "hashtags": "#corporatehumor #meetingssuck #officelife #worktok #corporatetiktok #9to5 #workmemes #fyp",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "fg-05-end-any-meeting-05",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "3 Phrases That End Any Meeting · “Is this a decision or a discussion?”",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · end-any-meeting-05",
+   "cover": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/linkedin/carousel.pdf",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/linkedin/carousel.pdf",
+       "name": "carousel.pdf",
+       "bytes": 555511,
+       "size": "542.5 Ko",
+       "kind": "pdf"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1054750,
+       "size": "1.0 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 121397,
+       "size": "118.6 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 107647,
+       "size": "105.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 105561,
+       "size": "103.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"Is this a decision or a discussion?\"\n\nTwo completely different meetings. Different prep, different pace, different exit. And almost nobody says which one they booked.\n\nThe invite said \"sync\". It was a decision. Half the room came ready to chat, the other half came ready to vote. Both left annoyed, for opposite reasons.\n\nHalf of all bad meetings are two meetings happening in the same room at the same time. Ask the question in the first minute and you get one meeting back.\n\nDecision or discussion: which one do you get more of? 👇",
+     "hashtags": "#Meetings #WorkCulture #Leadership #Productivity",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1054750,
+       "size": "1.0 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 121397,
+       "size": "118.6 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 107647,
+       "size": "105.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 105561,
+       "size": "103.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"Is this a decision or a discussion?\" Ask it first. Save everyone an hour.\n\nTwo different meetings, same invite. One half shows up to decide, the other half shows up to talk it through. Nobody says which one they booked. Everybody leaves convinced the others weren't listening.\n\nHalf of all bad meetings are two meetings happening at once. I flag it so you don't have to.\n\nSwipe → slide 4 is the truth. Slide 5 is me being smug about it.",
+     "hashtags": "#heidifieldguide #meetingssuck #corporatehumor #worklife #meetings #officelife #corporatelife #productivity",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1054750,
+       "size": "1.0 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 121397,
+       "size": "118.6 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 107647,
+       "size": "105.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 105561,
+       "size": "103.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-05-end-any-meeting-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-05-end-any-meeting-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: half the room came to decide, the other half came to \"talk it through\". Same invite.",
+     "hashtags": "#corporatehumor #worklife #meetingssuck #heidifieldguide",
      "status": "ready"
     }
    }

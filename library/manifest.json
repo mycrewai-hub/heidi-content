@@ -102,6 +102,49 @@
    }
   },
   {
+   "id": "fg-05-end-any-meeting-05",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "3 Phrases That End Any Meeting · “Is this a decision or a discussion?”",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · end-any-meeting-05",
+   "dir": "library/field-guide/fg-05-end-any-meeting-05",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      "linkedin/carousel.pdf",
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "instagram": {
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "tiktok": {
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    }
+   }
+  },
+  {
    "id": "tw-2026-10-26-ch01-a",
    "type": "Tweet",
    "title": "Tweet 17:30 · micro-dialogue : I'll be brief",
