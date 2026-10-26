@@ -233,6 +233,21 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "tw-2026-10-28-fg08-b",
+   "type": "Tweet",
+   "title": "Tweet mer 22:00 · vérité : decisions made offline",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-10-28-fg08-b",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }

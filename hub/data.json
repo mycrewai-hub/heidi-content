@@ -639,6 +639,25 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "tw-2026-10-28-fg08-b",
+   "type": "Tweet",
+   "title": "Tweet mer 22:00 · vérité : decisions made offline",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "Decisions made offline still need to arrive somewhere.\nUsually they arrive in a hallway, then in a rumor, then in a meeting about why nobody knew.\nI send the recap before step two.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
