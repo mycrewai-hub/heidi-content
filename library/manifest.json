@@ -188,6 +188,21 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "tw-2026-10-27-fg05-a",
+   "type": "Tweet",
+   "title": "Tweet mar 17:30 · vérité : two meetings at once",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-10-27-fg05-a",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }

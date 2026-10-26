@@ -582,6 +582,25 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "tw-2026-10-27-fg05-a",
+   "type": "Tweet",
+   "title": "Tweet mar 17:30 · vérité : two meetings at once",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "Half of all bad meetings are two different meetings happening at once.\nOne side came to decide. The other came to talk it through.\nBoth leave convinced the other side wasn't listening.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
