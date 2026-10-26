@@ -601,6 +601,25 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "tw-2026-10-27-fg05-b",
+   "type": "Tweet",
+   "title": "Tweet mar 22:00 · hook : decision or discussion?",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "\"Is this a decision or a discussion?\"\nAsk it in the first minute.\nHalf the room will realize they prepared for the wrong meeting. The other half will realize they didn't prepare.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }

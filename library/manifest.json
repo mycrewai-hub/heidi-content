@@ -203,6 +203,21 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "tw-2026-10-27-fg05-b",
+   "type": "Tweet",
+   "title": "Tweet mar 22:00 · hook : decision or discussion?",
+   "date": "2026-10-26",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-10-27-fg05-b",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }
