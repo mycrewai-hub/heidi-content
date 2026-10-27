@@ -36,6 +36,21 @@ def parse_captions(md):
     flush()
     return out
 
+def parse_poll(text):
+    """## poll block (X only): one option per line starting with "- ", plus "duration_minutes: N" (default 1440 = 24 h).
+    Sent by the publisher as platform_configurations.x.poll (2 to 4 options, 25 characters max, 5 to 10 080 minutes, no media)."""
+    options, minutes = [], 1440
+    for line in (text or "").split("\n"):
+        s = line.strip()
+        m = re.match(r"^duration_minutes\s*:\s*(\d+)$", s, re.I)
+        if m: minutes = int(m.group(1)); continue
+        if s.startswith(("- ", "* ")) and s[2:].strip(): options.append(s[2:].strip())
+    if not options: return None
+    bad = [o for o in options if len(o) > 25]
+    if not 2 <= len(options) <= 4 or bad or not 5 <= minutes <= 10080:
+        print(f"WARN poll invalide ({len(options)} options, {minutes} min, trop longues : {bad}) : le publisher le refusera")
+    return {"options": options, "duration_minutes": minutes}
+
 def human_size(n):
     for u in ("o", "Ko", "Mo", "Go"):
         if n < 1024: return f"{n:.0f} {u}" if u == "o" else f"{n:.1f} {u}"
@@ -64,6 +79,9 @@ def build():
             nets[key] = {"label": label, "format": spec.get("format", ""), "files": files,
                          "caption": caps.get(key, {}).get("caption", ""), "hashtags": caps.get(key, {}).get("hashtags", ""),
                          "status": spec.get("status", p.get("status", "draft"))}
+            if key == "x" and "poll" in caps:
+                poll = parse_poll(caps["poll"]["caption"])
+                if poll: nets[key]["poll"] = poll
         pieces.append({"id": p["id"], "type": p.get("type", ""), "title": p["title"], "date": p.get("date", ""),
                        "status": p.get("status", "draft"), "note": p.get("note", ""),
                        "cover": f"{p['dir']}/{p['cover']}" if p.get("cover") else "", "networks": nets})
@@ -175,6 +193,7 @@ function panel(p, key) {{
     <div class="fmt">${{esc(n.format || "")}}</div>
     <div class="files">${{files || '<div class="fmt">Texte seul, aucun fichier.</div>'}}</div>
     ${{n.caption ? `<div class="cap"><textarea readonly aria-label="Caption ${{esc(n.label)}}">${{esc(n.caption)}}</textarea>${{n.hashtags ? `<p class="tags">${{esc(n.hashtags)}}</p>` : ""}}<div class="row"><button class="btn" data-copy="${{esc(full)}}" data-label="Caption + hashtags">Copier caption + hashtags</button></div></div>` : ""}}
+    ${{n.poll ? `<div class="fmt">Sondage · ${{n.poll.duration_minutes >= 60 ? Math.round(n.poll.duration_minutes / 60) + " h" : n.poll.duration_minutes + " min"}}</div><ol class="tags">${{n.poll.options.map(o => `<li>${{esc(o)}}</li>`).join("")}}</ol>` : ""}}
   </div>`;
 }}
 function card(p) {{
