@@ -686,6 +686,25 @@
      }
     }
    }
+  },
+  {
+   "id": "tw-2026-10-29-before-during-after",
+   "type": "Tweet",
+   "title": "Tweet jeu 17:30 · avant, pendant, après en 4 lignes",
+   "date": "2026-10-28",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "Before the call, I remember who they are.\nDuring it, I coach you live.\nAfter it, I draft the follow-ups.\nYou take the credit.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
