@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27 17:58 UTC",
+ "generated": "2026-10-28 00:56 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -656,6 +656,34 @@
      "caption": "Decisions made offline still need to arrive somewhere.\nUsually they arrive in a hallway, then in a rumor, then in a meeting about why nobody knew.\nI send the recap before step two.",
      "hashtags": "",
      "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "tw-2026-10-28-poll-kill-first",
+   "type": "Tweet",
+   "title": "Sondage X mer 17:30 · quelle réunion tuer en premier",
+   "date": "2026-10-28",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "I sit through all of them.\nYou get to kill one.",
+     "hashtags": "",
+     "status": "ready",
+     "poll": {
+      "options": [
+       "The status update",
+       "The pre-alignment call",
+       "The \"quick one\"",
+       "All of them. Obviously."
+      ],
+      "duration_minutes": 1440
+     }
     }
    }
   }

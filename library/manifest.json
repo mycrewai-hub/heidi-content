@@ -248,6 +248,21 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "tw-2026-10-28-poll-kill-first",
+   "type": "Tweet",
+   "title": "Sondage X mer 17:30 · quelle réunion tuer en premier",
+   "date": "2026-10-28",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-10-28-poll-kill-first",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }
