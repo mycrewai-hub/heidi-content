@@ -688,6 +688,25 @@
    }
   },
   {
+   "id": "tw-2026-10-29-ai-meeting",
+   "type": "Tweet",
+   "title": "Tweet jeu 13:00 · l'IA qui va en réunion à ta place",
+   "date": "2026-10-28",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "AI that attends meetings for you is on its way.\nThe most honest feedback a meeting will ever get: you sent software.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
+  },
+  {
    "id": "tw-2026-10-29-before-during-after",
    "type": "Tweet",
    "title": "Tweet jeu 17:30 · avant, pendant, après en 4 lignes",
