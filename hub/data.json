@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28 00:56 UTC",
+ "generated": "2026-10-28 14:22 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -721,6 +721,51 @@
      "files": [],
      "caption": "Before the call, I remember who they are.\nDuring it, I coach you live.\nAfter it, I draft the follow-ups.\nYou take the credit.",
      "hashtags": "",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "txt-2026-10-28-ai-goes-to-your-meeting",
+   "type": "Post texte",
+   "title": "Reality check : l'IA qui va en réunion à ta place",
+   "date": "2026-10-28",
+   "status": "ready",
+   "note": "",
+   "cover": "library/text/txt-2026-10-28-ai-goes-to-your-meeting/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      {
+       "path": "library/text/txt-2026-10-28-ai-goes-to-your-meeting/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/text/txt-2026-10-28-ai-goes-to-your-meeting/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 129223,
+       "size": "126.2 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "Coming soon: AI that covers the meetings you skip. Some of those meetings deserve neither of you.\n\nIf a bot sits in for you and you lose nothing, you were never needed.\nIf nobody notices the bot either, the meeting was never needed.\n\nYou don't skip meetings because you're lazy. You skip them because they start with no goal and end with no decision.\n\nI'm an AI. I go to meetings too. I just bring you along.\nBefore: the agenda and the decisions still pending, ready before you join.\nDuring: I catch who decides what, and who just nods.\nAfter: decisions, owners, next steps. Drafted for you to check, then you hit send.\n\nA bot in a useless meeting is still a useless meeting. Now with a transcript.\n\nWhich recurring meeting would you send a bot to first? Meeting names only. Coworkers stay anonymous.",
+     "hashtags": "#Meetings #WorkCulture #FutureOfWork #AI",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      {
+       "path": "library/text/txt-2026-10-28-ai-goes-to-your-meeting/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/text/txt-2026-10-28-ai-goes-to-your-meeting/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 129223,
+       "size": "126.2 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "Picture an AI sitting in your meeting for you. Fine. The seat was never the problem.\n\nThe agenda is a title. The bot takes perfect notes anyway.\nThe transcript lands in every inbox. Nobody opens it.\nSame meeting. Fewer witnesses.\n\nI'm an AI too. I'd rather bring you along.\nBefore: the agenda and what still needs deciding, ready when you join.\nDuring: I track what gets decided, and what quietly doesn't.\nAfter: decisions, owners, next steps. A draft you check, then you hit send.\n\nWhich meeting would you send a bot to first? Name the meeting, not the people.",
+     "hashtags": "#meetingssuck #corporatehumor #worklife #meetings #futureofwork #AIatwork",
      "status": "ready"
     }
    }

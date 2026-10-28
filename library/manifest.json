@@ -293,6 +293,30 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "txt-2026-10-28-ai-goes-to-your-meeting",
+   "type": "Post texte",
+   "title": "Reality check : l'IA qui va en réunion à ta place",
+   "date": "2026-10-28",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/txt-2026-10-28-ai-goes-to-your-meeting",
+   "networks": {
+    "linkedin": {
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      "instagram/slide_1.png"
+     ]
+    },
+    "instagram": {
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      "instagram/slide_1.png"
+     ]
+    }
+   },
+   "cover": "instagram/slide_1.png"
   }
  ]
 }
