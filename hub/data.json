@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28 14:22 UTC",
+ "generated": "2026-10-31 06:20 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -766,6 +766,115 @@
      ],
      "caption": "Picture an AI sitting in your meeting for you. Fine. The seat was never the problem.\n\nThe agenda is a title. The bot takes perfect notes anyway.\nThe transcript lands in every inbox. Nobody opens it.\nSame meeting. Fewer witnesses.\n\nI'm an AI too. I'd rather bring you along.\nBefore: the agenda and what still needs deciding, ready when you join.\nDuring: I track what gets decided, and what quietly doesn't.\nAfter: decisions, owners, next steps. A draft you check, then you hit send.\n\nWhich meeting would you send a bot to first? Name the meeting, not the people.",
      "hashtags": "#meetingssuck #corporatehumor #worklife #meetings #futureofwork #AIatwork",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "fg-08-say-vs-mean-08",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "What They Say Vs What They Mean · “Let’s align offline”",
+   "date": "2026-10-31",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · say-vs-mean-08",
+   "cover": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_1.png",
+   "networks": {
+    "instagram": {
+     "label": "Instagram",
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 541358,
+       "size": "528.7 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 106922,
+       "size": "104.4 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 114091,
+       "size": "111.4 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 108243,
+       "size": "105.7 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"Let's align offline.\" Two people will align. Six will find out later.\n\nThe decision walks out of the call with two people and walks back in as a fact. Everyone else gets it later, phrased as if they had been there. Nodding along to a decision you never saw is now a core skill.\n\nOffline is fine. Offline with no recap is how trust leaks. Whatever gets parked for offline, I write it down with a name next to it. Nobody hears it thirdhand.\n\nEver found out a decision secondhand?",
+     "hashtags": "#heidifieldguide #meetingssuck #corporatehumor #worklife #meetings #officelife #corporatelife #workculture",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 541358,
+       "size": "528.7 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 106922,
+       "size": "104.4 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 114091,
+       "size": "111.4 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 108243,
+       "size": "105.7 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-08-say-vs-mean-08/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-08-say-vs-mean-08/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: the decision left the call with two people. You were the other six.",
+     "hashtags": "#corporatehumor #meetingssuck #heidifieldguide #worklife #officelife",
      "status": "ready"
     }
    }

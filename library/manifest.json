@@ -317,6 +317,38 @@
     }
    },
    "cover": "instagram/slide_1.png"
+  },
+  {
+   "id": "fg-08-say-vs-mean-08",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "What They Say Vs What They Mean · “Let’s align offline”",
+   "date": "2026-10-31",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · say-vs-mean-08",
+   "dir": "library/field-guide/fg-08-say-vs-mean-08",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "instagram": {
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "tiktok": {
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    }
+   }
   }
  ]
 }
