@@ -319,6 +319,49 @@
    "cover": "instagram/slide_1.png"
   },
   {
+   "id": "fg-02-saying-no-02",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "The Art Of Saying No Without Saying No · “I don’t have bandwidth” is not a real sentence",
+   "date": "2026-10-31",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · saying-no-02",
+   "dir": "library/field-guide/fg-02-saying-no-02",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      "linkedin/carousel.pdf",
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "instagram": {
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "tiktok": {
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    }
+   }
+  },
+  {
    "id": "fg-06-one-on-one-10",
    "type": "Heidi's Field Guide · carrousel",
    "title": "The 1-On-1 Survival Kit · “Same time next week?”",

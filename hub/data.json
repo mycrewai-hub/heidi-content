@@ -771,6 +771,172 @@
    }
   },
   {
+   "id": "fg-02-saying-no-02",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "The Art Of Saying No Without Saying No · “I don’t have bandwidth” is not a real sentence",
+   "date": "2026-10-31",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · saying-no-02",
+   "cover": "library/field-guide/fg-02-saying-no-02/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/linkedin/carousel.pdf",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/linkedin/carousel.pdf",
+       "name": "carousel.pdf",
+       "bytes": 560399,
+       "size": "547.3 Ko",
+       "kind": "pdf"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1258379,
+       "size": "1.2 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 123778,
+       "size": "120.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 115922,
+       "size": "113.2 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 101672,
+       "size": "99.3 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"I don't have bandwidth this sprint.\"\n\nUsually said in a week that still found room for a sync about the sync.\n\nSaying no is fine. Saying no through the calendar costs more: the real reason never gets discussed, so the same request comes back next sprint and gets the same answer.\n\n\"Not now, this matters more\" is a real sentence. It starts a conversation.\n\nWhat's your team's favorite way to say no without saying no?",
+     "hashtags": "#WorkCulture #Meetings #Leadership #FutureOfWork #HeidiFieldGuide",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1258379,
+       "size": "1.2 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 123778,
+       "size": "120.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 115922,
+       "size": "113.2 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 101672,
+       "size": "99.3 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"I don't have bandwidth\" is the politest no in the building.\n\nIt sounds like a capacity problem. It's a priority call nobody wants to make out loud. So the request comes back next sprint, and gets the same polite no.\n\n\"Not now, this matters more\" takes four more seconds and saves a sprint.\n\nYour team's favorite way to say no without saying no?\n\nSwipe →",
+     "hashtags": "#heidifieldguide #meetingssuck #corporatehumor #worklife #meetings #officelife #workculture #productivity",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1258379,
+       "size": "1.2 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 123778,
+       "size": "120.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 115922,
+       "size": "113.2 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 101672,
+       "size": "99.3 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-02-saying-no-02/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-02-saying-no-02/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: \"no bandwidth\" was the polite version. The real one was \"no.\"",
+     "hashtags": "#corporatehumor #worklife #meetings #officelife #heidi #heidifieldguide",
+     "status": "ready"
+    }
+   }
+  },
+  {
    "id": "fg-06-one-on-one-10",
    "type": "Heidi's Field Guide · carrousel",
    "title": "The 1-On-1 Survival Kit · “Same time next week?”",
