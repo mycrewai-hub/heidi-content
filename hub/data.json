@@ -1544,6 +1544,34 @@
    }
   },
   {
+   "id": "qc-2026-11-03-other-half",
+   "type": "Post texte",
+   "title": "Carte citation TikTok 22:00 · Meetings about the other half",
+   "date": "2026-11-01",
+   "status": "ready",
+   "note": "",
+   "cover": "library/text/qc-2026-11-03-other-half/instagram/slide_1.png",
+   "networks": {
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      {
+       "path": "library/text/qc-2026-11-03-other-half/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/text/qc-2026-11-03-other-half/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 145837,
+       "size": "142.4 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: you counted your meetings this week.",
+     "hashtags": "#corporatehumor #worklife #meetings #officelife #heidi #meetingssuck",
+     "status": "ready"
+    }
+   }
+  },
+  {
    "id": "tw-2026-11-01-out-of-time",
    "type": "Tweet",
    "title": "Tweet 19:00 et carte Instagram 22:00 · Nobody is out of time",

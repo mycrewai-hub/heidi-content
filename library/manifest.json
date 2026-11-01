@@ -523,6 +523,24 @@
    }
   },
   {
+   "id": "qc-2026-11-03-other-half",
+   "type": "Post texte",
+   "title": "Carte citation TikTok 22:00 · Meetings about the other half",
+   "date": "2026-11-01",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/qc-2026-11-03-other-half",
+   "networks": {
+    "tiktok": {
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      "instagram/slide_1.png"
+     ]
+    }
+   },
+   "cover": "instagram/slide_1.png"
+  },
+  {
    "id": "tw-2026-11-01-out-of-time",
    "type": "Tweet",
    "title": "Tweet 19:00 et carte Instagram 22:00 · Nobody is out of time",
