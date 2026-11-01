@@ -500,6 +500,21 @@
     }
    },
    "cover": "instagram/slide_1.png"
+  },
+  {
+   "id": "tw-2026-11-01-router",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · You're a person, not a router",
+   "date": "2026-11-01",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-01-router",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }

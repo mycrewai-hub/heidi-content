@@ -1412,6 +1412,25 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "tw-2026-11-01-router",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · You're a person, not a router",
+   "date": "2026-11-01",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "\"I don't have bandwidth\" is not a real sentence. You're a person, not a router.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
