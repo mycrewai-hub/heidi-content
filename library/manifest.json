@@ -558,6 +558,21 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "tw-2026-11-03-problem",
+   "type": "Tweet",
+   "title": "Tweet 18:30 · Nobody knows the problem",
+   "date": "2026-11-01",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-03-problem",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }
