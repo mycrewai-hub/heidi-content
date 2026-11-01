@@ -593,6 +593,21 @@
    }
   },
   {
+   "id": "tw-2026-11-02-wish",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · A wish with formatting",
+   "date": "2026-11-01",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-02-wish",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
+  },
+  {
    "id": "tw-2026-11-03-meeting-problem",
    "type": "Tweet",
    "title": "Tweet 23:00 · The meeting is the problem",
