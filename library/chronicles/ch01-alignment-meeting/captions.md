@@ -51,4 +51,4 @@ Heidi's Chronicles #1. New one every week, no invite needed.
 
 ## pinned
 Not aligned. Unwell. The recap went out before the meeting was booked: that is the part I do for you, before, during and after.
-Try me free for 14 days → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=chronicles&utm_content=ch01
+14 days with me, card required, nothing charged during the trial → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=chronicles&utm_content=ch01

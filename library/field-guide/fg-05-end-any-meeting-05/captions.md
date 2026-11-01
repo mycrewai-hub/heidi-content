@@ -29,5 +29,5 @@ POV: half the room came to decide, the other half came to "talk it through". Sam
 
 ## pinned
 That invite said “sync”. It was a decision. Half the room prepped for a chat. I flag it now.
-Try me free for 14 days → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=end-any-meeting-05
+14 days with me, card required, nothing charged during the trial → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=end-any-meeting-05
 

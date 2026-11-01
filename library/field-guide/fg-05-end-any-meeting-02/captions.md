@@ -31,5 +31,5 @@ POV: you asked "who owns this?" and six people remembered a hard stop.
 
 ## pinned
 Nine action items, two owners, zero dates. Before, we set what the meeting has to decide. During, I keep the call on it. After, the next steps leave in writing, and the late ones come back to you first.
-Try me free for 14 days → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=end-any-meeting-02
+14 days with me, card required, nothing charged during the trial → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=end-any-meeting-02
 

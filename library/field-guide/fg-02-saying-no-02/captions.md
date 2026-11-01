@@ -31,5 +31,5 @@ POV: "no bandwidth" was the polite version. The real one was "no."
 
 ## pinned
 "No bandwidth" is usually a priority nobody said out loud. Before the meeting, you tell me what matters. During, I flag when the call drifts away from it. After, the next steps leave in writing.
-Try me free for 14 days → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=saying-no-02
+14 days with me, card required, nothing charged during the trial → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=saying-no-02
 

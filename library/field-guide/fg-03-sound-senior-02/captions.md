@@ -29,5 +29,5 @@ POV: you asked what problem the weekly sync solves and nobody had an answer.
 
 ## pinned
 A meeting with no stated problem drifts by default. Before, I ask you for the goal. During, I flag when the call drifts away from it. After, you see what the plan covered and what fell through the cracks.
-Try me free for 14 days → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=sound-senior-02
+14 days with me, card required, nothing charged during the trial → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=sound-senior-02
 

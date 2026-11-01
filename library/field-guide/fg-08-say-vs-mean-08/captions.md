@@ -16,5 +16,5 @@ POV: the decision left the call with two people. You were the other six.
 
 ## pinned
 Parked for offline? I write it down with a name next to it, so nobody’s last to know.
-Try me free for 14 days → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=say-vs-mean-08
+14 days with me, card required, nothing charged during the trial → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=say-vs-mean-08
 

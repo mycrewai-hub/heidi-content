@@ -31,5 +31,5 @@ POV: the most sincere sentence in your 1-on-1 was about the calendar.
 
 ## pinned
 Thirty minutes, and the most sincere words were about the calendar. Before, I bring back what was said last time. During, I keep the call on what you came to move. After, the next steps leave in writing.
-Try me free for 14 days → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=one-on-one-10
+14 days with me, card required, nothing charged during the trial → https://hi-heidi.ai/?utm_source=linkedin&utm_medium=carousel&utm_campaign=field-guide&utm_content=one-on-one-10
 
