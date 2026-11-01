@@ -560,6 +560,21 @@
    }
   },
   {
+   "id": "tw-2026-11-03-meeting-problem",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · The meeting is the problem",
+   "date": "2026-11-01",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-03-meeting-problem",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
+  },
+  {
    "id": "tw-2026-11-03-problem",
    "type": "Tweet",
    "title": "Tweet 18:30 · Nobody knows the problem",
