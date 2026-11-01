@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01 12:32 UTC",
+ "generated": "2026-11-01 17:12 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -1621,6 +1621,25 @@
      "format": "Texte seul",
      "files": [],
      "caption": "\"I don't have bandwidth\" is not a real sentence. You're a person, not a router.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "tw-2026-11-02-owner",
+   "type": "Tweet",
+   "title": "Tweet 18:30 · Who's the owner and by when",
+   "date": "2026-11-01",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "\"Who's the owner and by when?\" Six people suddenly remember they have somewhere else to be.",
      "hashtags": "",
      "status": "ready"
     }
