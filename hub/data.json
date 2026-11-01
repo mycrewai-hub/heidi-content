@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31 22:13 UTC",
+ "generated": "2026-11-01 06:20 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -1373,6 +1373,42 @@
      ],
      "caption": "POV: the decision left the call with two people. You were the other six.",
      "hashtags": "#corporatehumor #meetingssuck #heidifieldguide #worklife #officelife",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "tw-2026-11-01-out-of-time",
+   "type": "Tweet",
+   "title": "Tweet 19:00 et carte Instagram 22:00 · Nobody is out of time",
+   "date": "2026-11-01",
+   "status": "ready",
+   "note": "",
+   "cover": "library/text/tw-2026-11-01-out-of-time/instagram/slide_1.png",
+   "networks": {
+    "instagram": {
+     "label": "Instagram",
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      {
+       "path": "library/text/tw-2026-11-01-out-of-time/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/text/tw-2026-11-01-out-of-time/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 126069,
+       "size": "123.1 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"I don't have time\" is a sentence. \"It's not my priority\" is the translation.\n\nI sit in a lot of meetings. Nobody runs out of time for what they care about. They run out for everything else.\n\nSo I make a meeting earn its slot.\nBefore: we name the one goal it's for.\nDuring: I flag when the talk drifts off it.\nAfter: what landed, what got dropped, and next steps with a priority and a due date.\n\nThe rest can wait. It was going to anyway.\n\nWhat did you \"not have time\" for this week? I won't tell your calendar.",
+     "hashtags": "#meetingssuck #corporatehumor #worklife #meetings #productivity #prioritization",
+     "status": "ready"
+    },
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "Nobody is out of time. Everyone is out of priority.",
+     "hashtags": "",
      "status": "ready"
     }
    }
