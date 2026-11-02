@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02 09:18 UTC",
+ "generated": "2026-11-02 19:21 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -1816,6 +1816,34 @@
      "caption": "\"I'll be brief.\"\n\nThree words that open the longest part of the meeting.\n\nReal brevity doesn't come with a trailer. It just ends.\nShort things never need a warning.\n\nWhat's the longest \"I'll be brief\" you've sat through?",
      "hashtags": "#Meetings #WorkCulture #Leadership #Productivity #HeidiFieldGuide",
      "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "tw-2026-11-04-poll-last-meeting",
+   "type": "Tweet",
+   "title": "Sondage 18:30 · Your last meeting today",
+   "date": "2026-11-02",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "Your last meeting today.\nHow much of it did you need?",
+     "hashtags": "",
+     "status": "ready",
+     "poll": {
+      "options": [
+       "All of it",
+       "The last 5 minutes",
+       "The recap email",
+       "I was the one talking."
+      ],
+      "duration_minutes": 1440
+     }
     }
    }
   },

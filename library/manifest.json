@@ -671,6 +671,21 @@
    }
   },
   {
+   "id": "tw-2026-11-04-poll-last-meeting",
+   "type": "Tweet",
+   "title": "Sondage 18:30 · Your last meeting today",
+   "date": "2026-11-02",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-04-poll-last-meeting",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
+  },
+  {
    "id": "script-react-for-visibility",
    "type": "Heidi react · image",
    "title": "Heidi react · For visibility",
