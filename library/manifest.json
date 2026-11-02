@@ -671,6 +671,24 @@
    }
   },
   {
+   "id": "qc-2026-11-04-habit",
+   "type": "Post texte",
+   "title": "Carte citation TikTok 22:00 · A meeting every day is a habit",
+   "date": "2026-11-02",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/qc-2026-11-04-habit",
+   "networks": {
+    "tiktok": {
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      "instagram/slide_1.png"
+     ]
+    }
+   },
+   "cover": "instagram/slide_1.png"
+  },
+  {
    "id": "tw-2026-11-04-poll-last-meeting",
    "type": "Tweet",
    "title": "Sondage 18:30 · Your last meeting today",
