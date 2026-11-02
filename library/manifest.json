@@ -648,6 +648,29 @@
    }
   },
   {
+   "id": "fg-07-meeting-hostage-02",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "The Meeting Hostage Situation · “I’ll be brief”",
+   "date": "2026-11-02",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · meeting-hostage-02",
+   "dir": "library/field-guide/fg-07-meeting-hostage-02",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      "linkedin/carousel.pdf",
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    }
+   }
+  },
+  {
    "id": "script-react-for-visibility",
    "type": "Heidi react · image",
    "title": "Heidi react · For visibility",

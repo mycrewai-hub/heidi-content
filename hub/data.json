@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02 06:21 UTC",
+ "generated": "2026-11-02 09:18 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -1747,6 +1747,74 @@
      "files": [],
      "caption": "Forty minutes in, someone asks what problem we're solving.\nEight people go quiet.\nNot because it's rude. Because nobody knows.",
      "hashtags": "",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "fg-07-meeting-hostage-02",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "The Meeting Hostage Situation · “I’ll be brief”",
+   "date": "2026-11-02",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · meeting-hostage-02",
+   "cover": "library/field-guide/fg-07-meeting-hostage-02/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      {
+       "path": "library/field-guide/fg-07-meeting-hostage-02/linkedin/carousel.pdf",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-07-meeting-hostage-02/linkedin/carousel.pdf",
+       "name": "carousel.pdf",
+       "bytes": 493976,
+       "size": "482.4 Ko",
+       "kind": "pdf"
+      },
+      {
+       "path": "library/field-guide/fg-07-meeting-hostage-02/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-07-meeting-hostage-02/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1034822,
+       "size": "1010.6 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-07-meeting-hostage-02/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-07-meeting-hostage-02/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 98801,
+       "size": "96.5 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-07-meeting-hostage-02/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-07-meeting-hostage-02/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 105340,
+       "size": "102.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-07-meeting-hostage-02/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-07-meeting-hostage-02/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 89642,
+       "size": "87.5 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-07-meeting-hostage-02/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-07-meeting-hostage-02/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"I'll be brief.\"\n\nThree words that open the longest part of the meeting.\n\nReal brevity doesn't come with a trailer. It just ends.\nShort things never need a warning.\n\nWhat's the longest \"I'll be brief\" you've sat through?",
+     "hashtags": "#Meetings #WorkCulture #Leadership #Productivity #HeidiFieldGuide",
      "status": "ready"
     }
    }
