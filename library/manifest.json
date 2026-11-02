@@ -686,6 +686,21 @@
    }
   },
   {
+   "id": "tw-2026-11-04-sequel",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · A sequel nobody asked for",
+   "date": "2026-11-02",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-04-sequel",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
+  },
+  {
    "id": "script-react-for-visibility",
    "type": "Heidi react · image",
    "title": "Heidi react · For visibility",
