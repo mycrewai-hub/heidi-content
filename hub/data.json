@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02 19:21 UTC",
+ "generated": "2026-11-03 06:14 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -1890,6 +1890,172 @@
      "files": [],
      "caption": "Nobody writes down what was decided, so the meeting comes back.\nSame people. Same slides. Two weeks later.\nA sequel nobody asked for.",
      "hashtags": "",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "fg-04-didnt-read-the-deck-05",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "You Didn’T Read The Deck. I Know. · “Remind me of the context here?”",
+   "date": "2026-11-03",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · didnt-read-the-deck-05",
+   "cover": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/linkedin/carousel.pdf",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/linkedin/carousel.pdf",
+       "name": "carousel.pdf",
+       "bytes": 585028,
+       "size": "571.3 Ko",
+       "kind": "pdf"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1396405,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 125558,
+       "size": "122.6 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 102532,
+       "size": "100.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 116492,
+       "size": "113.8 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "Every project has an origin story. You'll hear it four times.\n\nContext lives in the heads of whoever was in the last meeting, and heads don't forward well.\n\nSo the team re-explains it. Then books another meeting to re-explain the re-explanation.\n\nAsking for context isn't the problem. Losing it between meetings is.\n\nHow many times has one project been explained to you from scratch?",
+     "hashtags": "#Meetings #WorkCulture #Leadership #FutureOfWork #HeidiFieldGuide",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1396405,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 125558,
+       "size": "122.6 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 102532,
+       "size": "100.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 116492,
+       "size": "113.8 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "Every project has an origin story. You'll hear it four times.\n\nContext lives in whoever was in the last meeting, and people don't forward well. So the team re-explains, then books a meeting to re-explain the re-explanation.\n\nWrite it down once. Skip the sequel.\n\nSwipe →\n\nHow many times has one project been explained to you from scratch?",
+     "hashtags": "#heidifieldguide #meetingssuck #corporatehumor #worklife #meetings #officelife",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1396405,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 125558,
+       "size": "122.6 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 102532,
+       "size": "100.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 116492,
+       "size": "113.8 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-04-didnt-read-the-deck-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: third meeting on this project and someone still asks for context.",
+     "hashtags": "#corporatehumor #worklife #meetings #officelife #heidi #heidifieldguide",
      "status": "ready"
     }
    }

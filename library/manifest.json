@@ -719,6 +719,49 @@
    }
   },
   {
+   "id": "fg-04-didnt-read-the-deck-05",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "You Didn’T Read The Deck. I Know. · “Remind me of the context here?”",
+   "date": "2026-11-03",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · didnt-read-the-deck-05",
+   "dir": "library/field-guide/fg-04-didnt-read-the-deck-05",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      "linkedin/carousel.pdf",
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "instagram": {
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "tiktok": {
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    }
+   }
+  },
+  {
    "id": "script-react-for-visibility",
    "type": "Heidi react · image",
    "title": "Heidi react · For visibility",
