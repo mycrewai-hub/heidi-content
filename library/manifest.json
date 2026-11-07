@@ -827,6 +827,21 @@
      ]
     }
    }
+  },
+  {
+   "id": "tw-2026-11-05-any-blockers",
+   "type": "Tweet",
+   "title": "Tweet 18:30 · Any blockers?",
+   "date": "2026-11-07",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-05-any-blockers",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }
