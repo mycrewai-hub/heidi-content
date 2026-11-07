@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03 06:14 UTC",
+ "generated": "2026-11-07 06:13 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -2101,6 +2101,172 @@
      ],
      "caption": "\"Looping in my manager for visibility.\" 👀\n\nThe email didn't get a new reader. It got a jury.\n\nTell me the most dramatic cc you've survived.",
      "hashtags": "#corporatehumor #worklife #officelife #emailetiquette #meetingssuck #heidi",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "fg-06-one-on-one-05",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "The 1-On-1 Survival Kit · “Any blockers?”",
+   "date": "2026-11-07",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · one-on-one-05",
+   "cover": "library/field-guide/fg-06-one-on-one-05/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/linkedin/carousel.pdf",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/linkedin/carousel.pdf",
+       "name": "carousel.pdf",
+       "bytes": 562819,
+       "size": "549.6 Ko",
+       "kind": "pdf"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1404110,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 122815,
+       "size": "119.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 109402,
+       "size": "106.8 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 113451,
+       "size": "110.8 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"Any blockers?\"\n\"Nope, all good.\"\n\nTwo people who both know better, agreeing to move on.\n\nMost blockers aren't technical. They're an approval stuck in an inbox, a priority that changed in a meeting you weren't in, a calendar with no room left. Each one comes with a name attached. Saying it in a 1:1 sounds like an accusation, so nobody does.\n\nThe question isn't lazy. It just asks for the most expensive sentence in the org chart.\n\nTranslate your last \"nope, all good.\" No names. Obviously.",
+     "hashtags": "#Meetings #WorkCulture #Leadership #Productivity #HeidiFieldGuide",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1404110,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 122815,
+       "size": "119.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 109402,
+       "size": "106.8 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 113451,
+       "size": "110.8 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"Any blockers?\" \"Nope, all good.\" Two people who know better, moving on.\n\nSwipe →\n\nBlockers are rarely bugs. They're a stuck approval, a priority that changed without you, a calendar with no room. Each one comes with a name, and nobody wants to say it in a 1:1.\n\nThe question isn't lazy. It asks for the most expensive sentence in the org chart.\n\nTranslate your last \"nope, all good.\" No names. Obviously.",
+     "hashtags": "#heidifieldguide #meetingssuck #corporatehumor #worklife #meetings #officelife #management",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1404110,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 122815,
+       "size": "119.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 109402,
+       "size": "106.8 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 113451,
+       "size": "110.8 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-06-one-on-one-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-06-one-on-one-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1335092,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: \"any blockers?\" and the honest answer has a job title.",
+     "hashtags": "#corporatehumor #worklife #meetings #officelife #heidi #heidifieldguide",
      "status": "ready"
     }
    }

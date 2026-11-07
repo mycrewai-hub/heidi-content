@@ -784,6 +784,49 @@
      ]
     }
    }
+  },
+  {
+   "id": "fg-06-one-on-one-05",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "The 1-On-1 Survival Kit · “Any blockers?”",
+   "date": "2026-11-07",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · one-on-one-05",
+   "dir": "library/field-guide/fg-06-one-on-one-05",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      "linkedin/carousel.pdf",
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "instagram": {
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "tiktok": {
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    }
+   }
   }
  ]
 }
