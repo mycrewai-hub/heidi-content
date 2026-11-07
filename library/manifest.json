@@ -842,6 +842,21 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "tw-2026-11-05-blockers-names",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · Same project, different room",
+   "date": "2026-11-07",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-05-blockers-names",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }

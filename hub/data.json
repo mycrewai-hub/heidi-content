@@ -2289,6 +2289,25 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "tw-2026-11-05-blockers-names",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · Same project, different room",
+   "date": "2026-11-07",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "Every project is green in the 1:1 and red in the retro. Same project, different room.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
