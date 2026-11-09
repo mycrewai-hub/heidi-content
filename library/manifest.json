@@ -900,6 +900,21 @@
      ]
     }
    }
+  },
+  {
+   "id": "tw-2026-11-08-as-discussed",
+   "type": "Tweet",
+   "title": "Tweet 19:00 · As discussed",
+   "date": "2026-11-09",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-08-as-discussed",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }

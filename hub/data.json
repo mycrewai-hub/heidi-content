@@ -2474,6 +2474,25 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "tw-2026-11-08-as-discussed",
+   "type": "Tweet",
+   "title": "Tweet 19:00 · As discussed",
+   "date": "2026-11-09",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "\"As discussed.\"\nTwo words that mean: I have receipts, and I'm choosing peace.\nFor now.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
