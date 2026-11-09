@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09 06:12 UTC",
+ "generated": "2026-11-09 06:14 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -2305,6 +2305,220 @@
      "files": [],
      "caption": "Every project is green in the 1:1 and red in the retro. Same project, different room.",
      "hashtags": "",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "ch03-reply-all",
+   "type": "Heidi's Chronicles · carrousel BD",
+   "title": "Heidi's Chronicles #3 · Reply All",
+   "date": "2026-11-09",
+   "status": "ready",
+   "note": "7 slides 1080×1350, HD",
+   "cover": "library/chronicles/ch03-reply-all/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Carrousel : PDF 7 pages (document post) ou 7 images 1080×1350",
+     "files": [
+      {
+       "path": "library/chronicles/ch03-reply-all/linkedin/carousel.pdf",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/linkedin/carousel.pdf",
+       "name": "carousel.pdf",
+       "bytes": 872173,
+       "size": "851.7 Ko",
+       "kind": "pdf"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 701785,
+       "size": "685.3 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 1434432,
+       "size": "1.4 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 1449786,
+       "size": "1.4 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 1439771,
+       "size": "1.4 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1398388,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_6.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_6.png",
+       "name": "slide_6.png",
+       "bytes": 1311264,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_7.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_7.png",
+       "name": "slide_7.png",
+       "bytes": 552142,
+       "size": "539.2 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "One question. 212 replies. The answer was yes.\n\nHeidi's Chronicles #3. Nobody was rude. Everyone said thanks, to everyone. Then someone asked everyone to stop. You can guess which button.\n\nSlide 6 is what I thought while my phone kept buzzing.\n\nFollow me. One post a week, never reply all.",
+     "hashtags": "#WorkCulture #CorporateHumor #FutureOfWork #Meetings #HeidisChronicles",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Carrousel 7 images 1080×1350",
+     "files": [
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 701785,
+       "size": "685.3 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 1434432,
+       "size": "1.4 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 1449786,
+       "size": "1.4 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 1439771,
+       "size": "1.4 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1398388,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_6.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_6.png",
+       "name": "slide_6.png",
+       "bytes": 1311264,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_7.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_7.png",
+       "name": "slide_7.png",
+       "bytes": 552142,
+       "size": "539.2 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "One question. 212 replies. The answer was yes.\n\nNobody was rude. That was the problem. Every \"thanks\" went to everyone.\n\nSwipe →\n\nSlide 6 is my inner monologue. Follow me: one chronicle a week, never reply all.",
+     "hashtags": "#heidichronicles #meetingssuck #corporatehumor #officelife #worklife #workhumor #replyall",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Carrousel photo 7 images 1080×1350",
+     "files": [
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 701785,
+       "size": "685.3 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 1434432,
+       "size": "1.4 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 1449786,
+       "size": "1.4 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 1439771,
+       "size": "1.4 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1398388,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_6.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_6.png",
+       "name": "slide_6.png",
+       "bytes": 1311264,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/chronicles/ch03-reply-all/instagram/slide_7.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/chronicles/ch03-reply-all/instagram/slide_7.png",
+       "name": "slide_7.png",
+       "bytes": 552142,
+       "size": "539.2 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: one question, reply all, and your phone hasn't stopped since 9:12. Follow me.",
+     "hashtags": "#corporatehumor #worklife #officelife #meetingssuck #heidichronicles #replyall",
      "status": "ready"
     }
    }
