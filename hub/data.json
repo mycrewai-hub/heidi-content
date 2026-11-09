@@ -2493,6 +2493,25 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "tw-2026-11-08-more-strategic",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · Be more strategic",
+   "date": "2026-11-09",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "\"You need to be more strategic.\"\nAnnual review feedback that fits every employee on the planet.\nThat's not feedback. That's a horoscope.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
   }
  ]
 }

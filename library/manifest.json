@@ -915,6 +915,21 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "tw-2026-11-08-more-strategic",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · Be more strategic",
+   "date": "2026-11-09",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-08-more-strategic",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
   }
  ]
 }
