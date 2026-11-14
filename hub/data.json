@@ -3126,6 +3126,34 @@
    }
   },
   {
+   "id": "tw-2026-11-11-poll-who-writes",
+   "type": "Tweet",
+   "title": "Sondage 18:30 · Who writes down who does what?",
+   "date": "2026-11-15",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "Meeting's over.\nWho writes down who does what?",
+     "hashtags": "",
+     "status": "ready",
+     "poll": {
+      "options": [
+       "The person who ran it",
+       "Whoever cares most",
+       "Everyone, differently",
+       "We remember. Allegedly."
+      ],
+      "duration_minutes": 1440
+     }
+    }
+   }
+  },
+  {
    "id": "email-01",
    "type": "Heidi's Field Guide · carrousel",
    "title": "Should'Ve Been An Email · Weekly Alignment Sync: the email it should have been",
