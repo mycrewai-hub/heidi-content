@@ -3060,6 +3060,34 @@
    }
   },
   {
+   "id": "qc-2026-11-10-nodding",
+   "type": "Post texte",
+   "title": "Carte citation TikTok 12:30 · Nodding is not owning",
+   "date": "2026-11-15",
+   "status": "ready",
+   "note": "",
+   "cover": "library/text/qc-2026-11-10-nodding/instagram/slide_1.png",
+   "networks": {
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      {
+       "path": "library/text/qc-2026-11-10-nodding/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/text/qc-2026-11-10-nodding/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 124814,
+       "size": "121.9 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: everyone nodded. Nobody wrote their name down.",
+     "hashtags": "#corporatehumor #worklife #meetings #officelife #heidi #meetingssuck",
+     "status": "ready"
+    }
+   }
+  },
+  {
    "id": "email-01",
    "type": "Heidi's Field Guide · carrousel",
    "title": "Should'Ve Been An Email · Weekly Alignment Sync: the email it should have been",

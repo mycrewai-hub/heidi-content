@@ -1067,6 +1067,24 @@
    }
   },
   {
+   "id": "qc-2026-11-10-nodding",
+   "type": "Post texte",
+   "title": "Carte citation TikTok 12:30 · Nodding is not owning",
+   "date": "2026-11-15",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/qc-2026-11-10-nodding",
+   "networks": {
+    "tiktok": {
+     "format": "Texte + 1 image(s) 1080×1350",
+     "files": [
+      "instagram/slide_1.png"
+     ]
+    }
+   },
+   "cover": "instagram/slide_1.png"
+  },
+  {
    "id": "email-01",
    "type": "Heidi's Field Guide · carrousel",
    "title": "Should'Ve Been An Email · Weekly Alignment Sync: the email it should have been",
