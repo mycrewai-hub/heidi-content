@@ -1150,6 +1150,30 @@
      ]
     }
    }
+  },
+  {
+   "id": "script-react-synergies-v2",
+   "type": "Heidi react · image",
+   "title": "Heidi react · Synergies",
+   "date": "2026-11-15",
+   "status": "ready",
+   "note": "1 image 1080×1350",
+   "dir": "library/react/script-react-synergies-v2",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "1 image 1080×1350",
+     "files": [
+      "instagram/slide_1.png"
+     ]
+    },
+    "instagram": {
+     "format": "1 image 4:5",
+     "files": [
+      "instagram/slide_1.png"
+     ]
+    }
+   }
   }
  ]
 }

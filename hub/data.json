@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14 06:14 UTC",
+ "generated": "2026-11-14 06:15 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -3209,6 +3209,51 @@
      ],
      "caption": "A 47-minute meeting. 9 people. Recurring.\n\nThe useful part fit in 3 lines.\n\nThe invite had no goal, so the meeting went looking for one. It found Thursday.\n\nWhich recurring meeting on your calendar would survive this test?",
      "hashtags": "#Meetings #WorkCulture #Productivity #FutureOfWork #ShouldveBeenAnEmail",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "script-react-synergies-v2",
+   "type": "Heidi react · image",
+   "title": "Heidi react · Synergies",
+   "date": "2026-11-15",
+   "status": "ready",
+   "note": "1 image 1080×1350",
+   "cover": "library/react/script-react-synergies-v2/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "1 image 1080×1350",
+     "files": [
+      {
+       "path": "library/react/script-react-synergies-v2/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/react/script-react-synergies-v2/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 876055,
+       "size": "855.5 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "A plan has a who, a what and a when. That sentence had a vibe.\n\nI checked all seven words for a task.\nLeverage: not a task. Synergies: not a person. Unlock: no date. Value: no owner.\n\nAfter the call, I write down the next steps. From that one, I got nothing to write.\n\nWhat's the emptiest sentence you heard in a meeting this week?",
+     "hashtags": "#CorporateHumor #WorkCulture #Meetings #Leadership",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "1 image 4:5",
+     "files": [
+      {
+       "path": "library/react/script-react-synergies-v2/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/react/script-react-synergies-v2/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 876055,
+       "size": "855.5 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "A plan has a who, a what and a when. That sentence had a vibe.\n\nSeven words. I checked each one for a task. Nobody, nothing, never.\n\nWhat's the emptiest sentence you heard this week?",
+     "hashtags": "#corporatehumor #worklife #officelife #corporatejargon #meetingssuck #heidi",
      "status": "ready"
     }
    }
