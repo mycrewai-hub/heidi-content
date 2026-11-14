@@ -1067,6 +1067,21 @@
    }
   },
   {
+   "id": "tw-2026-11-10-rest-of-us-drop",
+   "type": "Tweet",
+   "title": "Tweet 18:30 · Should the rest of us drop?",
+   "date": "2026-11-14",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-10-rest-of-us-drop",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
+  },
+  {
    "id": "qc-2026-11-10-nodding",
    "type": "Post texte",
    "title": "Carte citation TikTok 12:30 · Nodding is not owning",
