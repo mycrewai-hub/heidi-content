@@ -2892,6 +2892,172 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "fg-10-performance-review-05",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "Performance Review: A Horror Story · “You need to be more strategic”",
+   "date": "2026-11-14",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · performance-review-05",
+   "cover": "library/field-guide/fg-10-performance-review-05/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/linkedin/carousel.pdf",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/linkedin/carousel.pdf",
+       "name": "carousel.pdf",
+       "bytes": 540842,
+       "size": "528.2 Ko",
+       "kind": "pdf"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1344243,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 121851,
+       "size": "119.0 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 107725,
+       "size": "105.2 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 105329,
+       "size": "102.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1415073,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "Nobody leaves a review knowing what to do differently on Monday after \"be more strategic.\"\n\nVague feedback is rarely malice. Usually there's no specific example on hand, so the reviewer reaches for the word that covers everything.\n\nFeedback gets useful when it points at a moment. This call. This question. This minute.\n\nWhat's the vaguest feedback you've ever received?",
+     "hashtags": "#WorkCulture #Leadership #PerformanceReview #CorporateHumor #HeidiFieldGuide",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1344243,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 121851,
+       "size": "119.0 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 107725,
+       "size": "105.2 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 105329,
+       "size": "102.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1415073,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "\"Be more strategic\" is feedback with no Monday in it.\n\nNo malice. Just no example on hand, so the reviewer grabs the one word that covers everything.\n\nUseful feedback points at a moment. This call. This question. This minute.\n\nSend this to the colleague who got the same sentence this year.",
+     "hashtags": "#heidifieldguide #meetingssuck #corporatehumor #worklife #meetings #officelife #performancereview",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 1344243,
+       "size": "1.3 Mo",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 121851,
+       "size": "119.0 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 107725,
+       "size": "105.2 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 105329,
+       "size": "102.9 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/fg-10-performance-review-05/instagram/slide_5.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/fg-10-performance-review-05/instagram/slide_5.png",
+       "name": "slide_5.png",
+       "bytes": 1415073,
+       "size": "1.3 Mo",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: \"be more strategic\" is the whole feedback. Send it to whoever got the same one.",
+     "hashtags": "#corporatehumor #worklife #meetings #officelife #heidi #heidifieldguide",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
