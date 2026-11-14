@@ -1065,6 +1065,28 @@
      ]
     }
    }
+  },
+  {
+   "id": "email-01",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "Should'Ve Been An Email · Weekly Alignment Sync: the email it should have been",
+   "date": "2026-11-16",
+   "status": "ready",
+   "note": "4 slides 1080×1350 · email-01",
+   "dir": "library/field-guide/email-01",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "Carrousel : PDF 4 pages (document) ou 4 images 1080×1350",
+     "files": [
+      "linkedin/carousel.pdf",
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png"
+     ]
+    }
+   }
   }
  ]
 }

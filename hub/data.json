@@ -3058,6 +3058,66 @@
      "status": "ready"
     }
    }
+  },
+  {
+   "id": "email-01",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "Should'Ve Been An Email · Weekly Alignment Sync: the email it should have been",
+   "date": "2026-11-16",
+   "status": "ready",
+   "note": "4 slides 1080×1350 · email-01",
+   "cover": "library/field-guide/email-01/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "Carrousel : PDF 4 pages (document) ou 4 images 1080×1350",
+     "files": [
+      {
+       "path": "library/field-guide/email-01/linkedin/carousel.pdf",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-01/linkedin/carousel.pdf",
+       "name": "carousel.pdf",
+       "bytes": 350042,
+       "size": "341.8 Ko",
+       "kind": "pdf"
+      },
+      {
+       "path": "library/field-guide/email-01/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-01/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 258542,
+       "size": "252.5 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/email-01/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-01/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 287372,
+       "size": "280.6 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/email-01/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-01/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 262428,
+       "size": "256.3 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/email-01/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-01/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 645919,
+       "size": "630.8 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "A 47-minute meeting. 9 people. Recurring.\n\nThe useful part fit in 3 lines.\n\nThe invite had no goal, so the meeting went looking for one. It found Thursday.\n\nWhich recurring meeting on your calendar would survive this test?",
+     "hashtags": "#Meetings #WorkCulture #Productivity #FutureOfWork #ShouldveBeenAnEmail",
+     "status": "ready"
+    }
+   }
   }
  ]
 }
