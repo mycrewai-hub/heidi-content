@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14 06:15 UTC",
+ "generated": "2026-11-14 06:16 UTC",
  "base_url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main",
  "pieces": [
   {
@@ -3098,6 +3098,99 @@
    }
   },
   {
+   "id": "email-02",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "Should'Ve Been An Email · Quick Status Update: the email it should have been",
+   "date": "2026-11-15",
+   "status": "ready",
+   "note": "4 slides 1080×1350 · email-02",
+   "cover": "library/field-guide/email-02/instagram/slide_1.png",
+   "networks": {
+    "instagram": {
+     "label": "Instagram",
+     "format": "Carrousel 4 images 4:5",
+     "files": [
+      {
+       "path": "library/field-guide/email-02/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-02/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 258605,
+       "size": "252.5 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/email-02/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-02/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 282650,
+       "size": "276.0 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/email-02/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-02/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 255060,
+       "size": "249.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/email-02/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-02/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 722379,
+       "size": "705.4 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "60 minutes. 12 people. 3 lines of news.\n\nA status meeting with nothing to decide is a newsletter with attendance.\n\nWhat's the longest \"quick\" meeting on your calendar?",
+     "hashtags": "#shouldvebeenanemail #meetingssuck #corporatehumor #meetings #worklife #officehumor",
+     "status": "ready"
+    },
+    "tiktok": {
+     "label": "TikTok",
+     "format": "Photo carousel 4 images (mode photo)",
+     "files": [
+      {
+       "path": "library/field-guide/email-02/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-02/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 258605,
+       "size": "252.5 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/email-02/instagram/slide_2.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-02/instagram/slide_2.png",
+       "name": "slide_2.png",
+       "bytes": 282650,
+       "size": "276.0 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/email-02/instagram/slide_3.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-02/instagram/slide_3.png",
+       "name": "slide_3.png",
+       "bytes": 255060,
+       "size": "249.1 Ko",
+       "kind": "image"
+      },
+      {
+       "path": "library/field-guide/email-02/instagram/slide_4.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/field-guide/email-02/instagram/slide_4.png",
+       "name": "slide_4.png",
+       "bytes": 722379,
+       "size": "705.4 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "POV: the \"quick\" status update is 60 minutes. Every Monday.",
+     "hashtags": "#corporatehumor #worklife #meetings #officelife #heidi #shouldvebeenanemail",
+     "status": "ready"
+    }
+   }
+  },
+  {
    "id": "qc-2026-11-10-nodding",
    "type": "Post texte",
    "title": "Carte citation TikTok 12:30 · Nodding is not owning",
@@ -3121,6 +3214,51 @@
      ],
      "caption": "POV: everyone nodded. Nobody wrote their name down.",
      "hashtags": "#corporatehumor #worklife #meetings #officelife #heidi #meetingssuck",
+     "status": "ready"
+    }
+   }
+  },
+  {
+   "id": "script-react-synergies-v2",
+   "type": "Heidi react · image",
+   "title": "Heidi react · Synergies",
+   "date": "2026-11-15",
+   "status": "ready",
+   "note": "1 image 1080×1350",
+   "cover": "library/react/script-react-synergies-v2/instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "label": "LinkedIn",
+     "format": "1 image 1080×1350",
+     "files": [
+      {
+       "path": "library/react/script-react-synergies-v2/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/react/script-react-synergies-v2/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 876055,
+       "size": "855.5 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "A plan has a who, a what and a when. That sentence had a vibe.\n\nI checked all seven words for a task.\nLeverage: not a task. Synergies: not a person. Unlock: no date. Value: no owner.\n\nAfter the call, I write down the next steps. From that one, I got nothing to write.\n\nWhat's the emptiest sentence you heard in a meeting this week?",
+     "hashtags": "#CorporateHumor #WorkCulture #Meetings #Leadership",
+     "status": "ready"
+    },
+    "instagram": {
+     "label": "Instagram",
+     "format": "1 image 4:5",
+     "files": [
+      {
+       "path": "library/react/script-react-synergies-v2/instagram/slide_1.png",
+       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/react/script-react-synergies-v2/instagram/slide_1.png",
+       "name": "slide_1.png",
+       "bytes": 876055,
+       "size": "855.5 Ko",
+       "kind": "image"
+      }
+     ],
+     "caption": "A plan has a who, a what and a when. That sentence had a vibe.\n\nSeven words. I checked each one for a task. Nobody, nothing, never.\n\nWhat's the emptiest sentence you heard this week?",
+     "hashtags": "#corporatehumor #worklife #officelife #corporatejargon #meetingssuck #heidi",
      "status": "ready"
     }
    }
@@ -3209,51 +3347,6 @@
      ],
      "caption": "A 47-minute meeting. 9 people. Recurring.\n\nThe useful part fit in 3 lines.\n\nThe invite had no goal, so the meeting went looking for one. It found Thursday.\n\nWhich recurring meeting on your calendar would survive this test?",
      "hashtags": "#Meetings #WorkCulture #Productivity #FutureOfWork #ShouldveBeenAnEmail",
-     "status": "ready"
-    }
-   }
-  },
-  {
-   "id": "script-react-synergies-v2",
-   "type": "Heidi react · image",
-   "title": "Heidi react · Synergies",
-   "date": "2026-11-15",
-   "status": "ready",
-   "note": "1 image 1080×1350",
-   "cover": "library/react/script-react-synergies-v2/instagram/slide_1.png",
-   "networks": {
-    "linkedin": {
-     "label": "LinkedIn",
-     "format": "1 image 1080×1350",
-     "files": [
-      {
-       "path": "library/react/script-react-synergies-v2/instagram/slide_1.png",
-       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/react/script-react-synergies-v2/instagram/slide_1.png",
-       "name": "slide_1.png",
-       "bytes": 876055,
-       "size": "855.5 Ko",
-       "kind": "image"
-      }
-     ],
-     "caption": "A plan has a who, a what and a when. That sentence had a vibe.\n\nI checked all seven words for a task.\nLeverage: not a task. Synergies: not a person. Unlock: no date. Value: no owner.\n\nAfter the call, I write down the next steps. From that one, I got nothing to write.\n\nWhat's the emptiest sentence you heard in a meeting this week?",
-     "hashtags": "#CorporateHumor #WorkCulture #Meetings #Leadership",
-     "status": "ready"
-    },
-    "instagram": {
-     "label": "Instagram",
-     "format": "1 image 4:5",
-     "files": [
-      {
-       "path": "library/react/script-react-synergies-v2/instagram/slide_1.png",
-       "url": "https://cdn.jsdelivr.net/gh/mycrewai-hub/heidi-content@main/library/react/script-react-synergies-v2/instagram/slide_1.png",
-       "name": "slide_1.png",
-       "bytes": 876055,
-       "size": "855.5 Ko",
-       "kind": "image"
-      }
-     ],
-     "caption": "A plan has a who, a what and a when. That sentence had a vibe.\n\nSeven words. I checked each one for a task. Nobody, nothing, never.\n\nWhat's the emptiest sentence you heard this week?",
-     "hashtags": "#corporatehumor #worklife #officelife #corporatejargon #meetingssuck #heidi",
      "status": "ready"
     }
    }

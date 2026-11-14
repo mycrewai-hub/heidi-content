@@ -1097,6 +1097,36 @@
    }
   },
   {
+   "id": "email-02",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "Should'Ve Been An Email · Quick Status Update: the email it should have been",
+   "date": "2026-11-15",
+   "status": "ready",
+   "note": "4 slides 1080×1350 · email-02",
+   "dir": "library/field-guide/email-02",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "instagram": {
+     "format": "Carrousel 4 images 4:5",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png"
+     ]
+    },
+    "tiktok": {
+     "format": "Photo carousel 4 images (mode photo)",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png"
+     ]
+    }
+   }
+  },
+  {
    "id": "qc-2026-11-10-nodding",
    "type": "Post texte",
    "title": "Carte citation TikTok 12:30 · Nodding is not owning",
@@ -1113,6 +1143,30 @@
     }
    },
    "cover": "instagram/slide_1.png"
+  },
+  {
+   "id": "script-react-synergies-v2",
+   "type": "Heidi react · image",
+   "title": "Heidi react · Synergies",
+   "date": "2026-11-15",
+   "status": "ready",
+   "note": "1 image 1080×1350",
+   "dir": "library/react/script-react-synergies-v2",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "1 image 1080×1350",
+     "files": [
+      "instagram/slide_1.png"
+     ]
+    },
+    "instagram": {
+     "format": "1 image 4:5",
+     "files": [
+      "instagram/slide_1.png"
+     ]
+    }
+   }
   },
   {
    "id": "tw-2026-11-11-poll-who-writes",
@@ -1147,30 +1201,6 @@
       "instagram/slide_2.png",
       "instagram/slide_3.png",
       "instagram/slide_4.png"
-     ]
-    }
-   }
-  },
-  {
-   "id": "script-react-synergies-v2",
-   "type": "Heidi react · image",
-   "title": "Heidi react · Synergies",
-   "date": "2026-11-15",
-   "status": "ready",
-   "note": "1 image 1080×1350",
-   "dir": "library/react/script-react-synergies-v2",
-   "cover": "instagram/slide_1.png",
-   "networks": {
-    "linkedin": {
-     "format": "1 image 1080×1350",
-     "files": [
-      "instagram/slide_1.png"
-     ]
-    },
-    "instagram": {
-     "format": "1 image 4:5",
-     "files": [
-      "instagram/slide_1.png"
      ]
     }
    }
