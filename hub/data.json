@@ -3079,6 +3079,25 @@
    }
   },
   {
+   "id": "tw-2026-11-10-someone-follow-up",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · Someone will follow up",
+   "date": "2026-11-14",
+   "status": "ready",
+   "note": "",
+   "cover": "",
+   "networks": {
+    "x": {
+     "label": "X",
+     "format": "Texte seul",
+     "files": [],
+     "caption": "\"Someone will follow up.\"\nEveryone leaves relieved.\nSomeone has never worked here.",
+     "hashtags": "",
+     "status": "ready"
+    }
+   }
+  },
+  {
    "id": "qc-2026-11-10-nodding",
    "type": "Post texte",
    "title": "Carte citation TikTok 12:30 · Nodding is not owning",

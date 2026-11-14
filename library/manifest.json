@@ -1082,6 +1082,21 @@
    }
   },
   {
+   "id": "tw-2026-11-10-someone-follow-up",
+   "type": "Tweet",
+   "title": "Tweet 23:00 · Someone will follow up",
+   "date": "2026-11-14",
+   "status": "ready",
+   "note": "",
+   "dir": "library/text/tw-2026-11-10-someone-follow-up",
+   "networks": {
+    "x": {
+     "format": "Texte seul",
+     "files": []
+    }
+   }
+  },
+  {
    "id": "qc-2026-11-10-nodding",
    "type": "Post texte",
    "title": "Carte citation TikTok 12:30 · Nodding is not owning",
