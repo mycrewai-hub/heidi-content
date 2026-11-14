@@ -979,6 +979,49 @@
      "files": []
     }
    }
+  },
+  {
+   "id": "fg-02-saying-no-06",
+   "type": "Heidi's Field Guide · carrousel",
+   "title": "The Art Of Saying No Without Saying No · “Can you put that in writing?”",
+   "date": "2026-11-14",
+   "status": "ready",
+   "note": "5 slides 1080×1350 · saying-no-06",
+   "dir": "library/field-guide/fg-02-saying-no-06",
+   "cover": "instagram/slide_1.png",
+   "networks": {
+    "linkedin": {
+     "format": "Carrousel : PDF 5 pages (document) ou 5 images 1080×1350",
+     "files": [
+      "linkedin/carousel.pdf",
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "instagram": {
+     "format": "Carrousel 5 images 4:5",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    },
+    "tiktok": {
+     "format": "Photo carousel 5 images (mode photo)",
+     "files": [
+      "instagram/slide_1.png",
+      "instagram/slide_2.png",
+      "instagram/slide_3.png",
+      "instagram/slide_4.png",
+      "instagram/slide_5.png"
+     ]
+    }
+   }
   }
  ]
 }
